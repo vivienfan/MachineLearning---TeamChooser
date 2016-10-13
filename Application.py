@@ -16,7 +16,7 @@ def RatingCalculator(csv_data, csv_rating):
     # To-do: run the model with newGame instance
     data = pandas.read_csv(filepath_or_buffer=csv_data, index_col=0)
     matrixData = pandas.DataFrame.as_matrix(data)
-#    dic = pandas.Series.from_csv(csv_rating).to_dict()  
+    dic = pandas.Series.from_csv(csv_rating).to_dict()  
     dic = {}
     dic_temp = {}
     dic_copy = {}  
@@ -27,10 +27,9 @@ def RatingCalculator(csv_data, csv_rating):
     for x in range (0, row):
         for y in range(0, col-2):
             if matrixData[x,y] not in dic:
-                dic[matrixData[x,y]] = 8        # if set to 5, all numbers are off by 3, a bias in the given ratings
+                dic[matrixData[x,y]] = 5        # if set to 5, all numbers are off by 1, a bias in the given ratings
                 dic_temp[matrixData[x,y]] = []
 
-    i = 0
     # loop until ratings stop updating
     keep_running = True
     while keep_running:
@@ -47,7 +46,7 @@ def RatingCalculator(csv_data, csv_rating):
             avgB = sumB / 6   
             scoreA = matrixData[x, -2]
             scoreB = matrixData[x, -1]      
-            x_adjustment = (((scoreA - scoreB) / 2 - (avgA - avgB))) * 2 * 11 
+            x_adjustment = (((scoreA - scoreB) / 2 - (avgA - avgB))) * 2 * 5 
             for k in range (0, 6):
                 # team a: avgA' = avgA + x
                 dic_temp[matrixData[x, k]].append(dic[matrixData[x, k]] + x_adjustment)
@@ -57,6 +56,7 @@ def RatingCalculator(csv_data, csv_rating):
         # update the rating with the average
         for key in dic:
             dic[key] = int(numpy.mean(dic_temp[key]))
+#        print(dic)    
     
         # check if the ratings stop updating
         still_updating = False
@@ -65,8 +65,8 @@ def RatingCalculator(csv_data, csv_rating):
                 still_updating = True;
         if still_updating == False:
             keep_running = False;
-        
-    print(i)        
+               
+    print(dic)
     player_ratings = pandas.Series(dic)
     player_ratings.to_csv(csv_rating)
     return
