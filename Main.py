@@ -6,27 +6,22 @@ Created on Mon Sep 12 13:32:58 2016
 """
 import Preprocessor
 import MachineLearningAlgorithm
-import Predictor
+import Application
 
 
 def main():
-    csvFile_toRead = r'C:\Users\shang\Downloads\Sacramentorealestatetransactions.csv'
-    csvFile_toWrite = r'C:\Users\shang\Downloads\ToWrite.csv'
-    
+    csvFile_rawData = r'C:\Users\shang\Documents\GitHub\Synthetic-Data-Generator-TeamChooser\game_stances.csv'
+    csvFile_processedData = r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\ProcessedData.csv'
+    csvFile_playerRating =  r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\PlayerRating.csv'
+#    csvFile_combination = r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\Combinations.csv'
     # step 1: preprocessing and feature extracting
-    games = Preprocessor.RawDataProcessor(csvFile_toRead)
-    print(games.columns)
-    print(games.head())
-
+    Preprocessor.RawDataProcessor(csvFile_rawData, csvFile_processedData, 1000) 
+    
     # step 2: Training (offline) - machine learning system (iterative process)
-    model = MachineLearningAlgorithm.IterativeTrainingSystem(games)
-    print(model)
+#    MachineLearningAlgorithm.IterativeTrainingSystem()
   
     # step 3: Testing (online)
-    newGame = ["player1", "player2","player3","player4","player5",
-               "player6","player7","player8","player9","player10",
-               "3:2"] # temperary
-    Predictor.PredictingFunction(model, games, newGame, csvFile_toWrite)
+    Application.RatingCalculator(csvFile_processedData, csvFile_playerRating)
     return
     
   
