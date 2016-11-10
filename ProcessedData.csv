@@ -29,3 +29,973 @@
 28,Jeffrey,Chris,Karen,Marcus,Martin,Sherman,Danny,John,Joeseph,Khoman ,Ryan,Jessica,0.0,2.0
 29,Alex,Jose,Tom,Frank,Vivien,Sherman,Jeffrey,Joeseph,Danny,John,Marcus,Michael,0.0,1.0
 30,Michael,Martin,John,Danny,Frank,Jose,Jonathan,Joeseph,Alex,Karen,Jessica,Tom,3.0,0.0
+31,Alex,Frank,Tom,Jessica,Sherman,Vivien,Marcus,Jonathan,Karen,Khoman ,Jeffrey,Ryan,0.0,1.0
+32,Alex,Chris,Joeseph,Frank,Jeffrey,Tom,Jessica,Jonathan,Martin,Jose,Max,Marcus,0.0,2.0
+33,Khoman ,Jeffrey,Tom,Martin,Jose,Jessica,Karen,Sherman,Joeseph,Frank,John,Danny,0.0,1.0
+34,Max,Tom,Jose,Chris,Vivien,Marcus,Ryan,Jessica,Joeseph,Jonathan,Karen,Danny,0.0,4.0
+35,Max,Sherman,Marcus,Ryan,Karen,Vivien,Jonathan,John,Danny,Joeseph,Frank,Jose,0.0,4.0
+36,Chris,Vivien,Michael,Sherman,Ryan,Frank,Karen,Tom,Alex,Max,Khoman ,Marcus,3.0,0.0
+37,John,Jonathan,Marcus,Alex,Jeffrey,Tom,Vivien,Karen,Chris,Ryan,Danny,Martin,0.0,3.0
+38,Danny,Alex,John,Joeseph,Jose,Karen,Vivien,Khoman ,Jeffrey,Marcus,Max,Martin,1.0,0.0
+39,Karen,Joeseph,Marcus,Alex,Jonathan,Frank,Martin,Jessica,Khoman ,Sherman,Jeffrey,Jose,0.0,0.0
+40,Martin,Tom,Frank,Chris,Marcus,Khoman ,Ryan,Alex,Jonathan,Jose,Michael,Sherman,0.0,2.0
+41,Jessica,Marcus,Vivien,Sherman,Jonathan,Tom,Max,Alex,Frank,Karen,Danny,Chris,0.0,0.0
+42,Jose,Marcus,Vivien,Jeffrey,Sherman,Michael,Danny,Joeseph,Jonathan,John,Frank,Max,0.0,1.0
+43,Vivien,Jeffrey,Jessica,John,Danny,Frank,Chris,Marcus,Martin,Ryan,Sherman,Karen,5.0,0.0
+44,Ryan,Joeseph,Jessica,Sherman,Alex,Jeffrey,Chris,Michael,Frank,Jonathan,Martin,Danny,0.0,3.0
+45,Martin,Vivien,John,Chris,Danny,Joeseph,Jeffrey,Khoman ,Marcus,Frank,Tom,Jessica,0.0,0.0
+46,Max,Jose,Jonathan,Alex,Chris,Karen,Martin,Jessica,Vivien,Ryan,John,Michael,0.0,1.0
+47,Michael,Frank,Joeseph,Tom,Vivien,Khoman ,Karen,Jonathan,Alex,Max,Jose,Martin,1.0,0.0
+48,John,Jeffrey,Marcus,Tom,Frank,Chris,Jose,Martin,Khoman ,Jonathan,Ryan,Alex,0.0,2.0
+49,Tom,Danny,Alex,Jonathan,Chris,Ryan,Jessica,Max,Marcus,Jose,Karen,Frank,0.0,3.0
+50,Joeseph,Alex,Marcus,Khoman ,Karen,Jonathan,Jose,Max,John,Chris,Danny,Frank,0.0,1.0
+51,Jeffrey,Jessica,Jonathan,Jose,Marcus,Michael,Ryan,Khoman ,Martin,Frank,Joeseph,Chris,2.0,0.0
+52,Khoman ,Chris,Alex,Jeffrey,Martin,Vivien,Jessica,Ryan,Frank,Sherman,Marcus,John,0.0,0.0
+53,Tom,Jeffrey,Jessica,Jose,Jonathan,Ryan,Danny,Frank,Alex,John,Sherman,Vivien,0.0,0.0
+54,Joeseph,Jonathan,Chris,Sherman,Marcus,Michael,Jessica,Jeffrey,Khoman ,Tom,Danny,Karen,0.0,1.0
+55,Karen,Max,John,Jessica,Sherman,Joeseph,Martin,Alex,Ryan,Michael,Tom,Jeffrey,1.0,0.0
+56,Jessica,Jeffrey,Jose,Marcus,Vivien,Danny,Tom,Alex,Sherman,Jonathan,Karen,Max,4.0,0.0
+57,Sherman,Max,Marcus,Chris,Frank,Joeseph,Michael,Danny,Khoman ,Alex,Vivien,Karen,0.0,3.0
+58,Jose,John,Ryan,Jessica,Danny,Max,Alex,Marcus,Frank,Vivien,Chris,Karen,1.0,0.0
+59,Jonathan,Jeffrey,Joeseph,Vivien,Karen,Danny,Michael,Jessica,Chris,Ryan,Sherman,Martin,4.0,0.0
+60,Max,Vivien,Jeffrey,Michael,Khoman ,Danny,Marcus,Tom,Sherman,Ryan,Martin,Jose,4.0,0.0
+61,Jonathan,Jeffrey,Khoman ,Danny,Jessica,Alex,Max,Tom,Vivien,Frank,Ryan,Michael,1.0,0.0
+62,Sherman,Karen,John,Michael,Alex,Ryan,Tom,Jessica,Max,Vivien,Marcus,Jose,0.0,1.0
+63,Joeseph,Frank,Chris,Jonathan,Alex,Sherman,Khoman ,Jessica,Ryan,John,Tom,Martin,2.0,0.0
+64,Danny,Chris,Alex,Max,John,Jose,Michael,Karen,Khoman ,Frank,Ryan,Marcus,0.0,2.0
+65,Vivien,Max,Jeffrey,Jose,Danny,Alex,Sherman,Tom,Ryan,John,Michael,Jessica,3.0,0.0
+66,Jose,Chris,Karen,Joeseph,John,Jonathan,Ryan,Khoman ,Danny,Alex,Frank,Vivien,0.0,1.0
+67,Danny,Khoman ,Jessica,Joeseph,Michael,Sherman,Frank,Jose,John,Tom,Martin,Alex,3.0,0.0
+68,Jonathan,Khoman ,Danny,Michael,Vivien,Jose,Marcus,Karen,Frank,Jeffrey,John,Joeseph,3.0,0.0
+69,Khoman ,Frank,Martin,Karen,Marcus,Jose,Alex,Tom,Max,Michael,Jonathan,Sherman,2.0,0.0
+70,Vivien,Max,Frank,Jessica,Jose,Martin,Alex,Michael,Khoman ,Danny,Jonathan,Sherman,1.0,0.0
+71,John,Tom,Danny,Khoman ,Max,Jeffrey,Jose,Jonathan,Michael,Joeseph,Martin,Chris,0.0,2.0
+72,Khoman ,Tom,Martin,Max,Frank,John,Vivien,Joeseph,Karen,Marcus,Alex,Jessica,0.0,1.0
+73,Ryan,Vivien,Tom,Max,Jose,Danny,Alex,Khoman ,Jeffrey,Jonathan,Frank,John,0.0,0.0
+74,Sherman,Joeseph,Jose,John,Jonathan,Frank,Martin,Danny,Khoman ,Ryan,Vivien,Tom,2.0,0.0
+75,Marcus,Jessica,Jonathan,Frank,Joeseph,Karen,John,Sherman,Khoman ,Jose,Michael,Tom,3.0,0.0
+76,Marcus,Jeffrey,Jonathan,Tom,Joeseph,Max,Sherman,Ryan,Alex,Frank,Martin,Vivien,0.0,0.0
+77,Vivien,Ryan,Karen,Frank,Danny,Max,Jessica,Jose,Marcus,Jonathan,Martin,John,2.0,0.0
+78,Alex,Khoman ,Ryan,Marcus,Frank,Sherman,Tom,Max,Joeseph,Jeffrey,Jonathan,Danny,0.0,3.0
+79,Danny,Chris,Martin,Ryan,Marcus,Max,Jessica,Sherman,Joeseph,Michael,Frank,Alex,0.0,2.0
+80,Marcus,Jeffrey,Jessica,Vivien,Alex,Khoman ,Danny,Chris,Jose,Ryan,Karen,Martin,0.0,1.0
+81,John,Jonathan,Jeffrey,Ryan,Chris,Martin,Sherman,Karen,Danny,Joeseph,Frank,Vivien,0.0,4.0
+82,Alex,Vivien,Max,Martin,Karen,Marcus,Danny,Jonathan,Khoman ,Jeffrey,Jose,Michael,0.0,5.0
+83,Jeffrey,Karen,Vivien,Marcus,Alex,Sherman,Jonathan,Jessica,Danny,Joeseph,Ryan,Chris,0.0,2.0
+84,Martin,Max,Jeffrey,Vivien,Jessica,Ryan,Frank,Michael,Chris,Jonathan,Jose,Sherman,0.0,1.0
+85,Khoman ,Sherman,Frank,Jessica,Max,Jose,Ryan,Joeseph,Danny,Marcus,John,Jonathan,1.0,0.0
+86,Jose,Khoman ,Karen,Michael,Frank,Max,Chris,Ryan,Marcus,Jeffrey,Sherman,Danny,3.0,0.0
+87,Marcus,Jeffrey,Jonathan,Vivien,Michael,Khoman ,Danny,Chris,Alex,John,Joeseph,Jose,3.0,0.0
+88,Khoman ,Tom,Karen,Joeseph,Ryan,Michael,Danny,Alex,Sherman,Jessica,Jose,Jeffrey,0.0,1.0
+89,Joeseph,Frank,John,Marcus,Danny,Alex,Michael,Jeffrey,Martin,Max,Jose,Jessica,0.0,2.0
+90,Marcus,Max,Sherman,Danny,Jessica,Martin,John,Ryan,Frank,Jonathan,Alex,Khoman ,0.0,0.0
+91,Danny,Jose,Jonathan,Tom,Martin,Frank,Chris,Ryan,Joeseph,Karen,Jeffrey,Max,3.0,0.0
+92,Michael,Martin,Frank,Alex,Vivien,Tom,Jessica,Karen,Chris,Jeffrey,John,Danny,0.0,0.0
+93,Martin,Max,Khoman ,Michael,Vivien,Frank,Marcus,John,Jessica,Chris,Karen,Ryan,4.0,0.0
+94,Jeffrey,Alex,Danny,Frank,Jonathan,John,Karen,Tom,Ryan,Sherman,Khoman ,Marcus,4.0,0.0
+95,Chris,John,Frank,Martin,Vivien,Danny,Ryan,Max,Alex,Tom,Karen,Marcus,4.0,0.0
+96,Tom,Max,Vivien,Michael,Chris,Karen,Sherman,Joeseph,Ryan,Jessica,Frank,John,0.0,1.0
+97,Jessica,Joeseph,Jose,Alex,Ryan,Tom,Khoman ,Karen,Sherman,Max,Chris,Jeffrey,0.0,0.0
+98,Sherman,Chris,Marcus,Alex,Frank,Vivien,Jessica,Michael,Jonathan,Max,Tom,Danny,0.0,3.0
+99,Michael,Ryan,Jeffrey,Vivien,Jonathan,Frank,Khoman ,Max,Tom,John,Danny,Chris,5.0,0.0
+100,Chris,Jessica,Vivien,Michael,Marcus,Sherman,Frank,Khoman ,Jeffrey,Alex,Jonathan,Karen,0.0,2.0
+101,Chris,Alex,Jeffrey,Max,Karen,Frank,Jose,Sherman,Michael,Joeseph,John,Martin,0.0,1.0
+102,Max,Karen,Jessica,Martin,Jose,Frank,Chris,Ryan,Jonathan,Alex,Khoman ,John,4.0,0.0
+103,Sherman,Jessica,John,Tom,Frank,Joeseph,Khoman ,Karen,Alex,Michael,Danny,Ryan,0.0,1.0
+104,Karen,Tom,Marcus,John,Khoman ,Jose,Martin,Jessica,Max,Joeseph,Alex,Chris,0.0,0.0
+105,Tom,Danny,Khoman ,Jonathan,Sherman,Michael,Martin,John,Jose,Chris,Max,Marcus,3.0,0.0
+106,Alex,Jose,Jessica,Chris,Sherman,Frank,Max,Tom,Joeseph,Jonathan,Karen,Vivien,0.0,1.0
+107,Martin,Sherman,Alex,Tom,Karen,Jeffrey,Marcus,Jonathan,Ryan,Michael,Jose,Khoman ,0.0,3.0
+108,Jessica,Ryan,Jeffrey,Max,Tom,Vivien,Danny,Sherman,Karen,Joeseph,Michael,Jonathan,0.0,3.0
+109,Sherman,Chris,Danny,Tom,Khoman ,Joeseph,Max,Karen,Jessica,Martin,Alex,John,0.0,0.0
+110,Jessica,Chris,Jonathan,Vivien,Frank,Max,Joeseph,Jose,Khoman ,Ryan,Sherman,Alex,2.0,0.0
+111,Chris,Ryan,Jose,Khoman ,Martin,Sherman,Max,Marcus,Frank,John,Alex,Danny,0.0,0.0
+112,Khoman ,Alex,Max,Jonathan,Sherman,Tom,Jose,John,Ryan,Chris,Jeffrey,Frank,0.0,2.0
+113,Karen,Jonathan,Michael,Jose,John,Vivien,Marcus,Chris,Alex,Sherman,Ryan,Tom,7.0,0.0
+114,Marcus,Alex,Sherman,Danny,Khoman ,Ryan,Frank,Jonathan,Jose,Max,Joeseph,John,0.0,3.0
+115,Ryan,Karen,Danny,John,Jessica,Jeffrey,Marcus,Sherman,Tom,Jonathan,Jose,Frank,0.0,0.0
+116,Tom,Frank,Khoman ,Jessica,Alex,Danny,Marcus,Max,Jose,Ryan,Michael,Joeseph,0.0,0.0
+117,Ryan,Jose,Jessica,Vivien,Alex,Karen,Frank,Max,Jeffrey,Sherman,Danny,John,0.0,0.0
+118,Jose,Danny,Chris,Khoman ,Michael,Tom,Karen,Jonathan,Joeseph,Martin,Ryan,Frank,0.0,2.0
+119,Tom,Marcus,Joeseph,Jose,Martin,Jonathan,Karen,Jeffrey,Alex,John,Jessica,Vivien,0.0,0.0
+120,Marcus,Ryan,Karen,Vivien,Danny,John,Khoman ,Joeseph,Jessica,Max,Chris,Sherman,1.0,0.0
+121,Martin,Khoman ,Jessica,Jonathan,Sherman,Michael,Karen,Chris,Jose,Marcus,Vivien,Alex,3.0,0.0
+122,Vivien,Jeffrey,Jessica,Danny,Max,Khoman ,Joeseph,Jonathan,Alex,Martin,Karen,Marcus,2.0,0.0
+123,Khoman ,Jeffrey,Ryan,Jose,Marcus,Karen,Joeseph,Chris,Michael,Martin,Frank,John,0.0,0.0
+124,Danny,Jeffrey,Jose,Tom,Chris,Jonathan,Vivien,Karen,Michael,Martin,Khoman ,Max,0.0,0.0
+125,John,Jeffrey,Alex,Tom,Michael,Chris,Jessica,Frank,Joeseph,Max,Karen,Martin,0.0,4.0
+126,Chris,Joeseph,Danny,Jeffrey,Jose,Vivien,Alex,Khoman ,Frank,Ryan,Tom,Martin,3.0,0.0
+127,Alex,Frank,Martin,Jessica,Karen,Jonathan,Ryan,Khoman ,Jeffrey,Chris,Sherman,Jose,2.0,0.0
+128,Martin,Joeseph,Khoman ,Jonathan,Jessica,Sherman,Karen,John,Danny,Jose,Marcus,Vivien,0.0,0.0
+129,Ryan,Chris,Sherman,Martin,Frank,Marcus,Tom,John,Michael,Max,Karen,Khoman ,0.0,0.0
+130,Martin,Jonathan,Max,Jose,Chris,Jeffrey,Danny,Alex,Sherman,Tom,John,Joeseph,2.0,0.0
+131,Joeseph,Jessica,Karen,Michael,Ryan,Frank,Max,Marcus,Tom,Jeffrey,Martin,Khoman ,4.0,0.0
+132,Tom,Danny,Karen,Max,Sherman,Jonathan,Joeseph,Jose,Marcus,Ryan,Martin,Vivien,0.0,0.0
+133,Sherman,Alex,Frank,Jonathan,Khoman ,Chris,Jose,Karen,Ryan,Tom,Jeffrey,Max,0.0,0.0
+134,Danny,Jeffrey,Karen,Jonathan,Tom,Frank,Chris,John,Jose,Ryan,Joeseph,Sherman,4.0,0.0
+135,Danny,Joeseph,Karen,Michael,Vivien,Khoman ,Jose,Sherman,Chris,Frank,John,Alex,4.0,0.0
+136,Karen,Joeseph,Chris,Jessica,Michael,Max,Danny,Jeffrey,Sherman,Vivien,Frank,Martin,0.0,2.0
+137,Martin,Karen,Jessica,Ryan,John,Frank,Max,Jeffrey,Vivien,Marcus,Danny,Chris,1.0,0.0
+138,Vivien,John,Karen,Jeffrey,Sherman,Marcus,Ryan,Joeseph,Michael,Khoman ,Jonathan,Jessica,0.0,2.0
+139,Khoman ,Joeseph,Tom,Karen,Jeffrey,Jose,Martin,Jessica,Alex,Max,Marcus,Ryan,3.0,0.0
+140,Sherman,Frank,Khoman ,Karen,Jose,Jonathan,Jeffrey,Chris,Max,Marcus,Michael,Martin,4.0,0.0
+141,Chris,Khoman ,Frank,Joeseph,Karen,Vivien,Martin,Jose,Jeffrey,Sherman,Danny,Alex,1.0,0.0
+142,Marcus,Jeffrey,Tom,Khoman ,Martin,Jessica,Karen,Danny,Chris,Alex,Frank,Ryan,0.0,1.0
+143,Joeseph,Martin,Vivien,Sherman,Danny,Jose,Frank,Jessica,Chris,Max,Khoman ,Michael,2.0,0.0
+144,Marcus,Jose,Vivien,Chris,Martin,Max,Sherman,John,Karen,Jeffrey,Joeseph,Alex,0.0,0.0
+145,Khoman ,Alex,John,Danny,Michael,Marcus,Jonathan,Ryan,Max,Joeseph,Sherman,Jeffrey,0.0,1.0
+146,Danny,Vivien,Chris,Michael,Max,Joeseph,Tom,Marcus,Jeffrey,Jose,Jessica,John,2.0,0.0
+147,Jonathan,Vivien,Danny,Frank,Marcus,Alex,Ryan,Jessica,Max,Sherman,Karen,Martin,2.0,0.0
+148,Martin,Jeffrey,Michael,Joeseph,Vivien,Danny,Frank,Karen,Ryan,Alex,Chris,Jonathan,3.0,0.0
+149,Michael,Jeffrey,Jose,Chris,Karen,Khoman ,Max,Danny,Jessica,Jonathan,Martin,Marcus,0.0,0.0
+150,Jessica,Joeseph,Tom,Marcus,Chris,Khoman ,Danny,Frank,John,Jeffrey,Karen,Max,0.0,4.0
+151,Jonathan,Tom,Marcus,Khoman ,Joeseph,Vivien,Jeffrey,Danny,Frank,Karen,Martin,Sherman,0.0,2.0
+152,Sherman,Tom,Chris,John,Martin,Jessica,Max,Ryan,Danny,Alex,Jose,Marcus,0.0,2.0
+153,Jose,Karen,Ryan,Chris,Max,John,Michael,Tom,Danny,Jeffrey,Alex,Sherman,0.0,1.0
+154,Khoman ,Jeffrey,Max,Frank,Joeseph,Jessica,Karen,Tom,Danny,Jonathan,Martin,Vivien,0.0,0.0
+155,Michael,Martin,Karen,Danny,Ryan,Joeseph,Jose,Jeffrey,Tom,Max,Sherman,Khoman ,3.0,0.0
+156,Martin,Jose,Max,Joeseph,Khoman ,Danny,Tom,Jessica,Ryan,Jeffrey,Marcus,Vivien,2.0,0.0
+157,Joeseph,Chris,Khoman ,Michael,Martin,Jessica,Karen,Marcus,John,Danny,Sherman,Alex,2.0,0.0
+158,Vivien,Jeffrey,Khoman ,Tom,Danny,Marcus,Karen,Jessica,Ryan,Martin,Joeseph,Chris,1.0,0.0
+159,Ryan,Michael,Martin,Vivien,Joeseph,Chris,Jose,Frank,Sherman,Max,John,Khoman ,0.0,0.0
+160,Ryan,Martin,Jonathan,John,Michael,Max,Jeffrey,Joeseph,Chris,Frank,Khoman ,Jessica,0.0,1.0
+161,Jeffrey,John,Karen,Michael,Frank,Alex,Vivien,Jonathan,Danny,Joeseph,Tom,Marcus,0.0,1.0
+162,Marcus,Frank,Ryan,Alex,Jeffrey,Karen,Michael,Jonathan,Tom,Joeseph,John,Khoman ,0.0,1.0
+163,John,Jessica,Vivien,Danny,Max,Jonathan,Marcus,Chris,Frank,Ryan,Joeseph,Tom,4.0,0.0
+164,John,Chris,Jeffrey,Martin,Jessica,Ryan,Jonathan,Sherman,Jose,Marcus,Joeseph,Vivien,0.0,3.0
+165,Sherman,Martin,Vivien,Frank,Karen,Alex,Jeffrey,Joeseph,Danny,Chris,Khoman ,Jessica,0.0,0.0
+166,Tom,Jessica,Sherman,Frank,Karen,Khoman ,Jeffrey,Joeseph,John,Alex,Michael,Danny,0.0,0.0
+167,Jessica,Ryan,Joeseph,Sherman,Vivien,Khoman ,Michael,Martin,Marcus,Alex,Jose,Max,1.0,0.0
+168,Tom,Sherman,Vivien,Jonathan,Max,Frank,Ryan,Joeseph,Danny,Michael,Karen,Alex,0.0,0.0
+169,John,Jose,Martin,Vivien,Jeffrey,Chris,Danny,Joeseph,Ryan,Karen,Sherman,Frank,0.0,2.0
+170,Marcus,Tom,Jeffrey,Martin,Sherman,Jessica,Ryan,Jose,Joeseph,Vivien,John,Frank,0.0,3.0
+171,Jeffrey,Khoman ,Michael,Ryan,Sherman,Danny,John,Tom,Jose,Martin,Frank,Chris,2.0,0.0
+172,John,Chris,Jose,Frank,Ryan,Tom,Vivien,Marcus,Jessica,Karen,Jeffrey,Khoman ,0.0,2.0
+173,Alex,Michael,Chris,Khoman ,Joeseph,Max,Marcus,Martin,Ryan,John,Danny,Jonathan,0.0,2.0
+174,Ryan,Martin,Danny,Karen,Max,John,Chris,Marcus,Tom,Khoman ,Sherman,Alex,4.0,0.0
+175,Khoman ,Jeffrey,Alex,Jose,Chris,Martin,Danny,Marcus,John,Ryan,Tom,Jonathan,0.0,0.0
+176,Marcus,Danny,Martin,Michael,Chris,Alex,Sherman,Jose,Ryan,John,Jonathan,Khoman ,0.0,1.0
+177,Alex,Jessica,Marcus,Ryan,Jose,Frank,Vivien,Martin,Joeseph,Sherman,John,Tom,1.0,0.0
+178,Sherman,Tom,Danny,Alex,Frank,Ryan,Chris,Michael,John,Khoman ,Jonathan,Joeseph,0.0,1.0
+179,Danny,Chris,Jonathan,Joeseph,Alex,Khoman ,John,Frank,Marcus,Jeffrey,Max,Karen,0.0,0.0
+180,Khoman ,Karen,Sherman,Tom,John,Michael,Jonathan,Alex,Chris,Ryan,Martin,Vivien,0.0,0.0
+181,Sherman,Martin,Jeffrey,John,Khoman ,Jessica,Michael,Marcus,Joeseph,Frank,Tom,Max,0.0,0.0
+182,Karen,Ryan,Khoman ,Martin,Alex,Tom,John,Chris,Frank,Joeseph,Danny,Jonathan,0.0,4.0
+183,Khoman ,Chris,Max,Vivien,Sherman,Martin,Karen,Frank,Jose,Jessica,Joeseph,Ryan,0.0,3.0
+184,Sherman,Tom,Danny,Joeseph,Chris,Ryan,Frank,Jeffrey,Michael,John,Martin,Marcus,0.0,2.0
+185,Chris,Max,Jessica,John,Karen,Danny,Martin,Jonathan,Vivien,Joeseph,Marcus,Khoman ,0.0,2.0
+186,Karen,Danny,Martin,Chris,Vivien,Alex,Khoman ,Sherman,Jeffrey,Jonathan,Joeseph,Frank,0.0,2.0
+187,Jeffrey,Jonathan,Ryan,Michael,Tom,Vivien,Marcus,Jessica,Joeseph,Sherman,Frank,John,1.0,0.0
+188,Alex,Frank,Max,Tom,Vivien,Jonathan,Sherman,Chris,Joeseph,Karen,Ryan,Martin,1.0,0.0
+189,Jonathan,Ryan,Khoman ,Max,Joeseph,Karen,Martin,Alex,Frank,Chris,Michael,John,2.0,0.0
+190,Alex,Chris,Martin,Marcus,Jonathan,Jeffrey,Karen,Sherman,Frank,Joeseph,Ryan,Danny,0.0,3.0
+191,John,Chris,Sherman,Michael,Jonathan,Joeseph,Max,Khoman ,Ryan,Vivien,Tom,Frank,0.0,0.0
+192,Sherman,Marcus,Jeffrey,Michael,Joeseph,Ryan,Danny,Jessica,Martin,Chris,Karen,Jonathan,0.0,2.0
+193,Jonathan,Jeffrey,Jessica,John,Alex,Joeseph,Frank,Marcus,Vivien,Michael,Khoman ,Sherman,0.0,1.0
+194,Jessica,Ryan,Max,Marcus,Jose,Khoman ,Jonathan,Jeffrey,Chris,John,Martin,Tom,1.0,0.0
+195,Jeffrey,Max,Chris,Vivien,Tom,Sherman,Jonathan,John,Martin,Khoman ,Jessica,Frank,0.0,3.0
+196,Jonathan,Michael,Tom,Max,Jeffrey,Alex,Danny,Joeseph,Khoman ,Ryan,Frank,Chris,0.0,1.0
+197,Jessica,Chris,Max,Vivien,Khoman ,Alex,Martin,Marcus,Jonathan,Danny,Frank,Sherman,0.0,3.0
+198,Tom,Alex,Joeseph,Frank,John,Jonathan,Jose,Jeffrey,Khoman ,Max,Jessica,Michael,0.0,2.0
+199,Jessica,Khoman ,Jose,Martin,Jonathan,Sherman,Karen,Alex,Jeffrey,Tom,Marcus,John,4.0,0.0
+200,Jeffrey,John,Joeseph,Jonathan,Michael,Karen,Tom,Khoman ,Jose,Jessica,Sherman,Martin,2.0,0.0
+201,Chris,Karen,Marcus,Sherman,Jeffrey,Joeseph,Vivien,Ryan,Danny,Alex,Tom,Max,0.0,0.0
+202,Frank,Khoman ,Martin,Joeseph,Jonathan,Ryan,Michael,Chris,Karen,Sherman,Max,Alex,4.0,0.0
+203,Frank,Martin,Max,Joeseph,Michael,Ryan,Marcus,Karen,Jessica,Jeffrey,Danny,Jonathan,0.0,1.0
+204,Vivien,Chris,Karen,Jonathan,Jose,Max,Ryan,Alex,Frank,Martin,Danny,Joeseph,0.0,0.0
+205,Danny,Ryan,Frank,Michael,Marcus,Karen,Alex,Jose,John,Jeffrey,Khoman ,Chris,4.0,0.0
+206,Jose,Jeffrey,Frank,Ryan,Jessica,Danny,Vivien,Michael,Tom,John,Sherman,Khoman ,4.0,0.0
+207,Danny,Tom,Sherman,Marcus,Frank,Michael,Khoman ,Alex,Max,Chris,Karen,Jose,2.0,0.0
+208,Martin,Ryan,Jeffrey,Tom,Danny,John,Jose,Khoman ,Alex,Frank,Jessica,Jonathan,0.0,3.0
+209,Tom,Michael,Frank,Joeseph,Karen,Ryan,Jessica,Marcus,Alex,Martin,Jonathan,Danny,0.0,0.0
+210,Khoman ,Max,Martin,Alex,Danny,Michael,Chris,Marcus,Vivien,Jonathan,Jeffrey,Jose,0.0,1.0
+211,Jessica,Jose,Max,Martin,Marcus,Joeseph,Tom,Sherman,Ryan,Khoman ,John,Michael,2.0,0.0
+212,Chris,Martin,John,Jessica,Alex,Ryan,Tom,Danny,Marcus,Vivien,Jose,Joeseph,0.0,4.0
+213,Max,Michael,Sherman,Karen,Alex,Joeseph,Chris,Tom,Khoman ,Jose,Danny,Marcus,1.0,0.0
+214,Michael,Jeffrey,Joeseph,Tom,John,Jessica,Sherman,Alex,Max,Vivien,Chris,Ryan,2.0,0.0
+215,Joeseph,Frank,Karen,Chris,Jose,Danny,Tom,Jeffrey,Ryan,Khoman ,Sherman,Marcus,4.0,0.0
+216,Jeffrey,Vivien,Sherman,Marcus,Frank,Danny,Tom,Chris,Jonathan,John,Khoman ,Joeseph,3.0,0.0
+217,Alex,Marcus,Khoman ,Martin,Jessica,Chris,Jose,Michael,John,Jonathan,Jeffrey,Frank,0.0,5.0
+218,Ryan,Martin,John,Karen,Tom,Jeffrey,Vivien,Marcus,Alex,Frank,Michael,Joeseph,0.0,2.0
+219,Tom,Danny,John,Frank,Michael,Jessica,Sherman,Marcus,Chris,Alex,Vivien,Jeffrey,3.0,0.0
+220,Martin,Jose,Jeffrey,Vivien,Tom,Karen,Jonathan,Frank,Max,Chris,Khoman ,Michael,0.0,0.0
+221,Jonathan,Tom,Jose,Jessica,Khoman ,Frank,Jeffrey,Marcus,Danny,Karen,Martin,Joeseph,1.0,0.0
+222,Martin,Frank,Jessica,Michael,Jose,Chris,Ryan,Tom,Marcus,Alex,Sherman,Max,5.0,0.0
+223,Martin,John,Chris,Max,Alex,Vivien,Khoman ,Joeseph,Karen,Marcus,Michael,Jonathan,0.0,4.0
+224,Danny,Martin,Tom,Khoman ,Jose,Jonathan,Frank,Alex,Michael,Sherman,Ryan,Marcus,2.0,0.0
+225,Joeseph,Martin,Ryan,Jose,Sherman,Alex,John,Khoman ,Marcus,Frank,Danny,Max,0.0,1.0
+226,Karen,Tom,Alex,Vivien,Martin,Michael,Joeseph,John,Max,Marcus,Khoman ,Jessica,1.0,0.0
+227,Sherman,Max,Frank,Danny,Jeffrey,Michael,Alex,Joeseph,Chris,Jonathan,Ryan,Jessica,3.0,0.0
+228,Sherman,Jessica,Jose,Michael,Alex,Joeseph,Khoman ,Max,Danny,Jeffrey,Jonathan,Vivien,0.0,2.0
+229,Karen,Vivien,Jeffrey,Alex,Martin,John,Max,Marcus,Michael,Sherman,Jose,Frank,0.0,1.0
+230,Alex,Frank,Sherman,Martin,Chris,Danny,Karen,Joeseph,Marcus,Max,Vivien,Michael,0.0,1.0
+231,Danny,Sherman,Vivien,Khoman ,Karen,Frank,Martin,Ryan,Joeseph,Michael,Jeffrey,Jonathan,1.0,0.0
+232,Joeseph,Max,Jessica,Michael,Alex,John,Martin,Jonathan,Ryan,Jose,Khoman ,Vivien,0.0,3.0
+233,Vivien,Danny,Karen,Martin,Tom,John,Khoman ,Chris,Max,Frank,Joeseph,Jessica,0.0,0.0
+234,Max,John,Joeseph,Khoman ,Vivien,Karen,Frank,Tom,Danny,Alex,Marcus,Jonathan,0.0,0.0
+235,Alex,Danny,Chris,Frank,Karen,Ryan,Joeseph,Max,Khoman ,Jeffrey,Tom,Sherman,1.0,0.0
+236,Jeffrey,Martin,Marcus,Jessica,Karen,Alex,Joeseph,Chris,Michael,John,Danny,Max,0.0,1.0
+237,Vivien,Marcus,Michael,Danny,Jonathan,John,Martin,Frank,Sherman,Joeseph,Chris,Max,2.0,0.0
+238,Alex,Khoman ,Vivien,Jeffrey,Danny,Frank,Marcus,Jessica,Chris,Karen,Sherman,Joeseph,3.0,0.0
+239,Frank,Alex,Chris,Ryan,Jeffrey,Marcus,Tom,Martin,Danny,John,Jonathan,Khoman ,0.0,2.0
+240,Jeffrey,Karen,Chris,Michael,Danny,Alex,Jonathan,Jose,Jessica,Marcus,Sherman,John,0.0,0.0
+241,John,Jeffrey,Jonathan,Marcus,Danny,Alex,Sherman,Martin,Jose,Khoman ,Ryan,Chris,1.0,0.0
+242,Frank,Marcus,Karen,Vivien,Jose,Khoman ,Ryan,Michael,Sherman,John,Chris,Tom,5.0,0.0
+243,Khoman ,Chris,Alex,Karen,Vivien,Danny,Martin,Marcus,Joeseph,Jose,Jonathan,Frank,0.0,2.0
+244,Jeffrey,Jonathan,Marcus,Martin,Tom,Max,Vivien,John,Karen,Michael,Joeseph,Ryan,0.0,2.0
+245,Vivien,Alex,Tom,Ryan,Marcus,Jeffrey,John,Frank,Sherman,Michael,Khoman ,Joeseph,0.0,3.0
+246,Tom,John,Khoman ,Jonathan,Ryan,Jessica,Joeseph,Marcus,Sherman,Alex,Michael,Jose,0.0,0.0
+247,Jessica,Khoman ,Frank,Alex,Sherman,Vivien,Joeseph,Jose,Tom,Marcus,Jonathan,Max,1.0,0.0
+248,John,Max,Frank,Khoman ,Joeseph,Alex,Jeffrey,Michael,Danny,Martin,Ryan,Jose,0.0,3.0
+249,Frank,Max,Khoman ,Chris,Danny,Jessica,Martin,Vivien,Sherman,Michael,John,Alex,2.0,0.0
+250,Khoman ,Alex,Max,Tom,Danny,Chris,Sherman,Ryan,Michael,Frank,Vivien,Martin,0.0,4.0
+251,Michael,John,Khoman ,Alex,Chris,Jose,Ryan,Jeffrey,Karen,Sherman,Frank,Jonathan,0.0,3.0
+252,Vivien,Max,Frank,John,Jeffrey,Ryan,Sherman,Joeseph,Danny,Alex,Khoman ,Chris,2.0,0.0
+253,Ryan,Jessica,Jeffrey,Michael,Khoman ,Jose,Jonathan,Karen,Chris,Frank,Marcus,John,2.0,0.0
+254,Joeseph,Jessica,Danny,Khoman ,Sherman,Alex,Marcus,Michael,Jeffrey,John,Ryan,Max,1.0,0.0
+255,Jessica,Frank,Ryan,Max,Tom,Jonathan,Karen,Sherman,Michael,Chris,Marcus,Alex,3.0,0.0
+256,Ryan,Marcus,Tom,Joeseph,Karen,Alex,Danny,Martin,John,Michael,Jonathan,Max,0.0,4.0
+257,Jonathan,Alex,Martin,Karen,Michael,Vivien,Danny,Joeseph,Max,John,Jeffrey,Frank,0.0,0.0
+258,Martin,Alex,Jessica,Michael,Vivien,Max,Karen,Danny,Chris,Joeseph,Jeffrey,Sherman,0.0,0.0
+259,Alex,Michael,Danny,Marcus,Vivien,Max,Jeffrey,Tom,Chris,Karen,Jose,Sherman,1.0,0.0
+260,Sherman,Danny,Frank,Vivien,Jessica,Max,Ryan,Martin,John,Jeffrey,Khoman ,Karen,3.0,0.0
+261,John,Jose,Martin,Jessica,Vivien,Marcus,Khoman ,Joeseph,Chris,Jonathan,Frank,Ryan,0.0,1.0
+262,Joeseph,Frank,Jose,Vivien,Tom,Sherman,Martin,Max,Ryan,Michael,Jonathan,Jessica,0.0,0.0
+263,Marcus,Frank,Alex,Vivien,Khoman ,Chris,Tom,Sherman,John,Ryan,Jeffrey,Max,1.0,0.0
+264,Jessica,Frank,Jose,Khoman ,Joeseph,Max,Marcus,Vivien,Michael,Martin,Jonathan,Chris,1.0,0.0
+265,Marcus,Max,Jonathan,Vivien,Michael,John,Alex,Tom,Karen,Frank,Ryan,Jose,1.0,0.0
+266,Ryan,Marcus,Sherman,Tom,Martin,Frank,Karen,Alex,Joeseph,Michael,Khoman ,Jose,0.0,2.0
+267,Ryan,Jessica,Vivien,Tom,Alex,Jeffrey,Martin,Chris,Joeseph,Michael,Max,Sherman,0.0,0.0
+268,Marcus,Sherman,Jonathan,Chris,Alex,Tom,Karen,Max,Jessica,Michael,Jeffrey,Vivien,0.0,5.0
+269,John,Danny,Jonathan,Frank,Chris,Jose,Ryan,Tom,Vivien,Alex,Martin,Michael,3.0,0.0
+270,Chris,Khoman ,Alex,John,Frank,Max,Jonathan,Danny,Vivien,Joeseph,Michael,Tom,0.0,5.0
+271,Vivien,Sherman,Jonathan,Martin,Alex,Frank,Michael,Jessica,Jose,Chris,Danny,Marcus,0.0,0.0
+272,Karen,Joeseph,Sherman,Michael,Marcus,Jeffrey,Jessica,Max,Frank,Martin,Tom,Chris,2.0,0.0
+273,Danny,Marcus,Vivien,Karen,Michael,Frank,Jonathan,John,Chris,Jose,Khoman ,Sherman,3.0,0.0
+274,Jeffrey,Alex,Danny,Marcus,Jonathan,Sherman,Martin,Vivien,Chris,Tom,Khoman ,Joeseph,1.0,0.0
+275,Jessica,Jeffrey,Alex,John,Frank,Marcus,Jose,Joeseph,Karen,Danny,Michael,Khoman ,0.0,4.0
+276,Chris,Karen,Martin,Joeseph,Jeffrey,Max,Danny,Michael,Alex,Tom,Vivien,Jose,0.0,1.0
+277,Tom,Vivien,Max,Jeffrey,Sherman,Joeseph,Jessica,Jonathan,Chris,Danny,Michael,Alex,0.0,1.0
+278,Jeffrey,Alex,Jessica,Chris,Frank,Martin,Marcus,Sherman,Khoman ,Danny,Max,Michael,0.0,1.0
+279,Tom,Ryan,Karen,Danny,Vivien,Martin,Alex,Frank,John,Jeffrey,Khoman ,Marcus,2.0,0.0
+280,Danny,Alex,Jose,John,Karen,Jonathan,Joeseph,Jessica,Jeffrey,Khoman ,Vivien,Ryan,0.0,0.0
+281,Vivien,Jonathan,Jeffrey,Tom,Joeseph,Martin,Marcus,Michael,Frank,Max,Ryan,John,2.0,0.0
+282,Jonathan,Vivien,Jose,Marcus,Danny,Max,Jeffrey,Joeseph,Frank,Martin,Alex,John,2.0,0.0
+283,Tom,Jose,Jessica,Khoman ,Chris,Marcus,Alex,John,Jonathan,Michael,Max,Martin,0.0,1.0
+284,Sherman,Michael,Karen,Max,Jeffrey,Martin,John,Frank,Khoman ,Joeseph,Alex,Jessica,1.0,0.0
+285,Marcus,Joeseph,Alex,Martin,Khoman ,Ryan,John,Michael,Frank,Vivien,Sherman,Tom,0.0,2.0
+286,Michael,Danny,Tom,Max,Khoman ,Jessica,Vivien,Karen,Chris,Ryan,Joeseph,Martin,1.0,0.0
+287,Karen,Jonathan,Chris,Danny,John,Ryan,Tom,Max,Jessica,Jose,Michael,Khoman ,0.0,0.0
+288,Joeseph,Martin,Jessica,Chris,Michael,Jeffrey,Danny,Alex,Karen,Sherman,Jonathan,Tom,1.0,0.0
+289,Martin,Jessica,Jonathan,Danny,Michael,Alex,Tom,Joeseph,Sherman,Karen,Khoman ,Max,3.0,0.0
+290,Martin,Tom,Jeffrey,Ryan,Alex,Vivien,Jonathan,Jose,Danny,Sherman,Marcus,Khoman ,0.0,3.0
+291,John,Frank,Alex,Marcus,Jessica,Khoman ,Ryan,Max,Jeffrey,Jonathan,Chris,Vivien,0.0,1.0
+292,Frank,Tom,Khoman ,Joeseph,Sherman,Karen,Jonathan,Jose,Marcus,Alex,Vivien,Max,0.0,0.0
+293,Tom,Marcus,Jessica,Jonathan,Danny,Vivien,Frank,Max,Joeseph,Chris,Martin,Sherman,2.0,0.0
+294,Michael,John,Tom,Jonathan,Danny,Khoman ,Ryan,Chris,Alex,Martin,Jessica,Frank,2.0,0.0
+295,John,Martin,Max,Ryan,Tom,Jonathan,Alex,Khoman ,Vivien,Jeffrey,Jose,Michael,0.0,3.0
+296,Ryan,Max,Danny,Chris,Marcus,Tom,Jonathan,Jose,Martin,Frank,Jeffrey,Jessica,0.0,6.0
+297,Alex,Marcus,Chris,Joeseph,Tom,Khoman ,Danny,Jonathan,Karen,John,Michael,Jeffrey,0.0,6.0
+298,Alex,Karen,Chris,Ryan,Joeseph,Jeffrey,Khoman ,Marcus,Jessica,Sherman,Jonathan,Jose,0.0,2.0
+299,Chris,Alex,Martin,Ryan,Vivien,Khoman ,Frank,Joeseph,Karen,Danny,Jose,Michael,0.0,6.0
+300,Jessica,Marcus,Michael,John,Chris,Jonathan,Jose,Joeseph,Danny,Vivien,Alex,Frank,0.0,3.0
+301,Michael,Frank,Joeseph,Danny,Marcus,Jessica,Sherman,John,Ryan,Jose,Vivien,Martin,3.0,0.0
+302,Sherman,Martin,Frank,Chris,Jonathan,John,Danny,Tom,Vivien,Marcus,Max,Alex,1.0,0.0
+303,Joeseph,Ryan,Khoman ,Sherman,Tom,Max,Danny,Vivien,Karen,Alex,Chris,Frank,0.0,3.0
+304,Frank,John,Vivien,Jeffrey,Marcus,Sherman,Jonathan,Chris,Karen,Max,Joeseph,Khoman ,0.0,0.0
+305,Marcus,Martin,Danny,Tom,Jonathan,Jessica,Jeffrey,Frank,Alex,Ryan,John,Jose,1.0,0.0
+306,Danny,Alex,Frank,Martin,Karen,John,Jonathan,Vivien,Joeseph,Jose,Jessica,Marcus,0.0,2.0
+307,Jonathan,Jeffrey,Michael,Ryan,Danny,Khoman ,Karen,Jessica,Chris,Marcus,Joeseph,Martin,3.0,0.0
+308,Danny,Jonathan,Tom,Martin,Alex,Vivien,Michael,John,Jose,Marcus,Karen,Jeffrey,0.0,0.0
+309,Jose,Marcus,Sherman,Danny,Martin,Karen,Vivien,Chris,Jessica,Jonathan,Khoman ,Jeffrey,0.0,0.0
+310,Frank,Tom,Danny,Ryan,Khoman ,Martin,Sherman,Jeffrey,Max,Karen,Chris,Jessica,1.0,0.0
+311,Alex,Chris,Danny,Jessica,Ryan,Vivien,Marcus,Jonathan,Tom,Jeffrey,Michael,Sherman,0.0,0.0
+312,John,Chris,Jose,Jessica,Max,Jeffrey,Marcus,Alex,Joeseph,Danny,Khoman ,Karen,0.0,1.0
+313,Max,Jose,Alex,Frank,Marcus,Ryan,Danny,Martin,Michael,Karen,John,Jessica,0.0,2.0
+314,Frank,Khoman ,Joeseph,Karen,Max,Michael,Sherman,John,Jeffrey,Vivien,Danny,Ryan,1.0,0.0
+315,John,Chris,Karen,Vivien,Jonathan,Max,Khoman ,Joeseph,Marcus,Alex,Jose,Sherman,1.0,0.0
+316,Martin,Tom,John,Jeffrey,Danny,Alex,Khoman ,Michael,Jose,Vivien,Jonathan,Max,0.0,4.0
+317,Vivien,Ryan,Joeseph,Michael,Karen,Jonathan,Khoman ,Max,Marcus,Danny,Jeffrey,Tom,3.0,0.0
+318,Jose,Michael,Chris,Marcus,Frank,Tom,John,Khoman ,Jonathan,Ryan,Vivien,Sherman,0.0,1.0
+319,Michael,Frank,Tom,Jonathan,Jeffrey,Jose,Khoman ,Alex,Jessica,Ryan,Karen,Marcus,4.0,0.0
+320,Khoman ,Chris,Jonathan,Martin,Michael,Vivien,John,Tom,Jose,Marcus,Karen,Alex,4.0,0.0
+321,Martin,John,Jeffrey,Khoman ,Jonathan,Joeseph,Karen,Michael,Jose,Vivien,Marcus,Alex,0.0,0.0
+322,Jessica,Jeffrey,Vivien,Alex,Joeseph,Khoman ,Chris,Frank,Michael,Danny,John,Marcus,0.0,0.0
+323,Max,Chris,Michael,Jonathan,Jose,John,Marcus,Khoman ,Joeseph,Danny,Sherman,Ryan,0.0,0.0
+324,Marcus,Khoman ,Michael,Tom,Jonathan,Vivien,John,Danny,Jose,Joeseph,Sherman,Chris,1.0,0.0
+325,Jose,Tom,Chris,Max,Karen,John,Danny,Sherman,Frank,Marcus,Michael,Martin,0.0,4.0
+326,Ryan,Alex,Max,Vivien,Jessica,Joeseph,Chris,Khoman ,Karen,Michael,Jeffrey,Martin,0.0,1.0
+327,Vivien,Alex,Max,Jessica,Khoman ,Ryan,John,Danny,Tom,Michael,Jeffrey,Karen,0.0,1.0
+328,Danny,John,Karen,Jonathan,Max,Marcus,Ryan,Khoman ,Joeseph,Frank,Jessica,Martin,0.0,1.0
+329,Marcus,Max,Khoman ,John,Tom,Michael,Alex,Chris,Ryan,Jessica,Martin,Jose,0.0,1.0
+330,Jose,Jonathan,Chris,Alex,Michael,Vivien,Khoman ,Jessica,John,Karen,Frank,Sherman,0.0,0.0
+331,Martin,Danny,Vivien,Sherman,Tom,Karen,Ryan,Khoman ,Max,Joeseph,Chris,Jessica,2.0,0.0
+332,Ryan,Martin,Jonathan,Karen,Marcus,Frank,Sherman,Tom,Max,Vivien,Joeseph,John,3.0,0.0
+333,Karen,Marcus,Martin,Vivien,John,Sherman,Joeseph,Max,Khoman ,Alex,Ryan,Tom,2.0,0.0
+334,Danny,Chris,Karen,Vivien,Jessica,Tom,Martin,Jose,Frank,John,Marcus,Jonathan,0.0,1.0
+335,Sherman,Jonathan,Michael,John,Max,Martin,Khoman ,Chris,Marcus,Jessica,Joeseph,Jose,1.0,0.0
+336,Marcus,Sherman,Martin,John,Joeseph,Chris,Jeffrey,Ryan,Vivien,Tom,Max,Karen,0.0,2.0
+337,Karen,Vivien,Jonathan,Sherman,Chris,Joeseph,Jose,Frank,Max,Marcus,Ryan,Jeffrey,0.0,0.0
+338,Jeffrey,Frank,Marcus,Ryan,Max,John,Khoman ,Michael,Joeseph,Vivien,Martin,Chris,0.0,1.0
+339,Danny,Frank,Jessica,Karen,Alex,Chris,Sherman,Joeseph,Jose,Vivien,John,Ryan,0.0,0.0
+340,Max,Tom,Vivien,Frank,Joeseph,Ryan,Karen,Jessica,Chris,Khoman ,Michael,Alex,1.0,0.0
+341,Martin,Alex,Tom,Joeseph,Jonathan,Danny,Ryan,Sherman,John,Marcus,Khoman ,Jessica,2.0,0.0
+342,Jessica,Chris,Alex,Michael,Karen,Jose,Vivien,Ryan,Khoman ,Sherman,Max,Danny,0.0,1.0
+343,Karen,Chris,Khoman ,Martin,Max,Frank,Tom,Jose,Jonathan,Michael,Joeseph,Jeffrey,0.0,2.0
+344,Ryan,Martin,Marcus,Frank,Alex,Sherman,Max,Jose,Jonathan,Jeffrey,Joeseph,Karen,0.0,4.0
+345,Jonathan,Jessica,Max,Jose,Tom,Chris,Ryan,Marcus,Danny,Martin,Vivien,Frank,0.0,2.0
+346,Joeseph,Khoman ,Ryan,Michael,Danny,Jessica,Frank,Jeffrey,Vivien,Karen,Sherman,Alex,1.0,0.0
+347,Danny,Martin,Alex,Khoman ,Jonathan,Max,Karen,Sherman,Michael,Marcus,Jessica,Vivien,0.0,0.0
+348,Martin,Max,Jeffrey,Marcus,Danny,Jose,Frank,Joeseph,Jessica,Michael,Vivien,Jonathan,0.0,3.0
+349,Alex,Chris,Vivien,Martin,Frank,Jose,Danny,Michael,Marcus,Karen,Tom,John,1.0,0.0
+350,Danny,Ryan,John,Tom,Jonathan,Sherman,Frank,Alex,Martin,Jessica,Jose,Khoman ,0.0,1.0
+351,Vivien,Jessica,Jeffrey,Karen,Jose,Marcus,Sherman,Michael,Khoman ,Ryan,Tom,Chris,4.0,0.0
+352,Sherman,Max,John,Joeseph,Chris,Marcus,Jonathan,Vivien,Khoman ,Jessica,Michael,Frank,0.0,6.0
+353,Alex,Danny,Marcus,Michael,Max,Vivien,Jessica,Sherman,Karen,Chris,Martin,Frank,0.0,0.0
+354,Vivien,Jose,John,Jonathan,Max,Joeseph,Sherman,Khoman ,Jessica,Martin,Karen,Frank,0.0,0.0
+355,Jessica,Jonathan,Tom,Karen,Michael,Max,John,Chris,Jose,Marcus,Ryan,Danny,2.0,0.0
+356,Ryan,Khoman ,Vivien,Karen,Jeffrey,Jonathan,Max,Jessica,Jose,Danny,Tom,Marcus,2.0,0.0
+357,Vivien,Danny,Alex,Jessica,Ryan,Khoman ,Karen,Jonathan,Marcus,Michael,Martin,Joeseph,0.0,1.0
+358,Martin,Sherman,Tom,Khoman ,Frank,Jeffrey,Karen,Alex,Jonathan,John,Chris,Danny,0.0,0.0
+359,Frank,Jessica,Marcus,Sherman,Martin,Alex,Jose,Max,Jonathan,Danny,Michael,Vivien,0.0,4.0
+360,Martin,Vivien,Michael,Frank,Ryan,Jessica,Max,Joeseph,Tom,Sherman,Jonathan,Chris,4.0,0.0
+361,Michael,Jeffrey,Frank,Joeseph,Sherman,Vivien,Ryan,Danny,Jonathan,Jose,John,Tom,2.0,0.0
+362,Sherman,Martin,Ryan,Jose,Michael,John,Jessica,Vivien,Tom,Jonathan,Jeffrey,Frank,0.0,2.0
+363,Karen,Marcus,Jonathan,Chris,Sherman,Danny,Tom,Frank,Vivien,Martin,Max,Michael,0.0,1.0
+364,Danny,Jose,Khoman ,Max,Jessica,Martin,Ryan,Jonathan,Vivien,Marcus,Tom,Chris,3.0,0.0
+365,Michael,Ryan,Danny,Max,Vivien,Frank,Jose,Alex,Jonathan,Marcus,Sherman,Khoman ,3.0,0.0
+366,Jose,Jonathan,Jessica,Marcus,Frank,Vivien,Jeffrey,Michael,Sherman,Karen,John,Danny,2.0,0.0
+367,Martin,Vivien,Frank,Chris,Jonathan,Alex,Jessica,Max,Ryan,Joeseph,Michael,Marcus,1.0,0.0
+368,Marcus,Tom,Jose,Vivien,Ryan,Jonathan,Khoman ,Frank,Jessica,Sherman,Jeffrey,Martin,0.0,1.0
+369,Michael,Jessica,Jeffrey,Joeseph,Tom,Jose,Chris,Alex,Sherman,Frank,Karen,Khoman ,2.0,0.0
+370,Frank,John,Karen,Jose,Martin,Danny,Alex,Sherman,Tom,Max,Marcus,Chris,7.0,0.0
+371,Martin,Sherman,John,Vivien,Chris,Jeffrey,Joeseph,Jessica,Jose,Ryan,Alex,Max,0.0,1.0
+372,Jonathan,Chris,Marcus,Karen,Jose,Tom,Martin,Danny,Michael,Khoman ,Vivien,Jeffrey,0.0,3.0
+373,Alex,Marcus,Max,Jessica,Joeseph,Chris,Danny,Frank,John,Sherman,Martin,Jeffrey,0.0,4.0
+374,Khoman ,Karen,Marcus,Vivien,Jeffrey,Jessica,Jonathan,Joeseph,Frank,John,Jose,Michael,0.0,2.0
+375,Jessica,Ryan,Alex,Martin,Michael,Joeseph,Karen,Sherman,Chris,Danny,Jose,Jeffrey,0.0,1.0
+376,Tom,Danny,Marcus,Jeffrey,Khoman ,Jose,Michael,Vivien,Chris,Jessica,Jonathan,Martin,0.0,1.0
+377,Khoman ,Alex,Jose,Vivien,Karen,Frank,Jessica,John,Jonathan,Ryan,Max,Chris,3.0,0.0
+378,Danny,Ryan,Karen,Jessica,Max,Sherman,Vivien,Jonathan,Jeffrey,Khoman ,Chris,Frank,0.0,1.0
+379,Jeffrey,Jessica,Karen,John,Tom,Martin,Ryan,Danny,Frank,Jose,Michael,Khoman ,0.0,4.0
+380,Joeseph,Jonathan,Ryan,Jessica,Frank,Karen,Khoman ,Sherman,Chris,Vivien,Michael,Martin,3.0,0.0
+381,Max,Joeseph,Michael,Jessica,Chris,Jose,Ryan,Danny,Martin,Jeffrey,Tom,Vivien,0.0,0.0
+382,Joeseph,Marcus,Sherman,Tom,Chris,Danny,Max,Alex,Michael,Jonathan,John,Vivien,0.0,2.0
+383,Martin,Chris,Michael,Jose,Ryan,John,Max,Vivien,Jeffrey,Karen,Tom,Alex,0.0,0.0
+384,Tom,Chris,Marcus,Jessica,Jeffrey,Michael,Ryan,Alex,Max,Martin,Frank,Jonathan,0.0,2.0
+385,Danny,Jeffrey,Tom,John,Frank,Joeseph,Alex,Karen,Jose,Chris,Marcus,Michael,2.0,0.0
+386,Joeseph,Vivien,Marcus,John,Jonathan,Karen,Max,Khoman ,Michael,Sherman,Jeffrey,Jessica,0.0,0.0
+387,Frank,Jessica,Karen,Vivien,Danny,John,Jeffrey,Max,Marcus,Tom,Michael,Joeseph,3.0,0.0
+388,Khoman ,Chris,Frank,Michael,Ryan,Tom,Jessica,Jonathan,John,Danny,Max,Sherman,0.0,2.0
+389,Marcus,John,Chris,Joeseph,Martin,Jonathan,Jessica,Tom,Michael,Frank,Karen,Jose,0.0,3.0
+390,Frank,Max,Danny,John,Chris,Alex,Jeffrey,Joeseph,Khoman ,Jose,Ryan,Martin,0.0,2.0
+391,Vivien,Frank,Jessica,Sherman,Ryan,Jonathan,Khoman ,Chris,Alex,Marcus,Jose,Max,5.0,0.0
+392,Sherman,Chris,Danny,Martin,Vivien,Alex,Michael,Karen,Jessica,Ryan,John,Joeseph,0.0,1.0
+393,Chris,Martin,Sherman,Vivien,Alex,Karen,Jessica,Jonathan,Jose,Tom,John,Max,0.0,1.0
+394,Chris,Marcus,Jessica,John,Alex,Karen,Vivien,Frank,Khoman ,Martin,Michael,Jonathan,0.0,6.0
+395,Michael,Joeseph,Jessica,Sherman,Tom,Chris,Jeffrey,Alex,Vivien,Marcus,Ryan,Khoman ,0.0,0.0
+396,Tom,Chris,Jeffrey,Max,Sherman,Vivien,Joeseph,Jose,Jessica,Karen,Khoman ,Frank,0.0,4.0
+397,Marcus,Ryan,Martin,Vivien,Danny,Karen,Alex,Joeseph,Khoman ,Sherman,Michael,John,2.0,0.0
+398,Joeseph,Martin,Marcus,John,Karen,Jessica,Jonathan,Ryan,Jeffrey,Frank,Chris,Tom,0.0,0.0
+399,Sherman,Tom,John,Jessica,Frank,Joeseph,Marcus,Alex,Michael,Jose,Danny,Chris,0.0,0.0
+400,Max,Karen,Sherman,Ryan,Vivien,Khoman ,Jose,Michael,Alex,Jeffrey,Danny,Jonathan,0.0,3.0
+401,Sherman,Michael,Jessica,Frank,Joeseph,Danny,Khoman ,Martin,John,Marcus,Chris,Max,6.0,0.0
+402,Frank,Tom,Joeseph,Ryan,Vivien,Alex,Jeffrey,Michael,Sherman,Martin,Khoman ,Max,0.0,1.0
+403,Jeffrey,Chris,Ryan,Sherman,Jessica,John,Marcus,Martin,Tom,Alex,Frank,Max,0.0,0.0
+404,Khoman ,Frank,Karen,Jessica,Martin,Jose,John,Vivien,Marcus,Michael,Tom,Danny,2.0,0.0
+405,Tom,Frank,Martin,John,Jessica,Sherman,Danny,Karen,Jose,Vivien,Joeseph,Ryan,0.0,3.0
+406,Jonathan,Marcus,Frank,John,Jeffrey,Michael,Ryan,Chris,Vivien,Karen,Tom,Jessica,3.0,0.0
+407,Karen,Danny,Jose,Sherman,Jeffrey,Jonathan,Marcus,Jessica,John,Chris,Michael,Ryan,5.0,0.0
+408,Jonathan,Tom,Alex,Frank,John,Sherman,Ryan,Vivien,Karen,Chris,Joeseph,Jessica,0.0,1.0
+409,Jonathan,Sherman,Karen,Alex,Danny,Marcus,John,Frank,Michael,Jessica,Chris,Ryan,0.0,0.0
+410,Danny,Khoman ,Jonathan,Jessica,John,Sherman,Marcus,Jeffrey,Jose,Joeseph,Michael,Chris,1.0,0.0
+411,Ryan,Chris,Sherman,Jessica,Max,Karen,Jeffrey,Joeseph,Khoman ,Martin,John,Michael,0.0,2.0
+412,Tom,Martin,Jose,Jeffrey,Alex,Michael,Khoman ,Max,Danny,Chris,Jonathan,John,0.0,0.0
+413,Michael,John,Alex,Max,Jessica,Ryan,Tom,Sherman,Marcus,Martin,Karen,Danny,0.0,1.0
+414,Karen,Martin,Jessica,Jose,Khoman ,Jeffrey,Sherman,Marcus,Tom,Michael,Jonathan,Chris,3.0,0.0
+415,Jose,Max,Jessica,Khoman ,Tom,Sherman,Joeseph,Jonathan,Martin,Chris,Michael,Marcus,0.0,1.0
+416,Tom,Max,Jeffrey,Danny,Vivien,Frank,Karen,Jessica,Jose,Jonathan,Martin,Sherman,0.0,0.0
+417,Danny,Joeseph,Chris,Alex,Marcus,Jeffrey,Vivien,Ryan,John,Jose,Max,Frank,0.0,2.0
+418,Ryan,Vivien,Alex,Michael,Jose,Tom,Joeseph,Max,Jessica,Karen,Danny,Khoman ,0.0,2.0
+419,Michael,Alex,Martin,Joeseph,Jose,Tom,Jonathan,John,Marcus,Sherman,Danny,Khoman ,0.0,1.0
+420,Jose,Ryan,Jeffrey,Vivien,John,Khoman ,Jessica,Frank,Chris,Alex,Michael,Sherman,1.0,0.0
+421,Danny,Marcus,Alex,Jeffrey,Martin,Khoman ,Jose,Jonathan,Vivien,Karen,Sherman,Frank,0.0,4.0
+422,Jose,Michael,Chris,Khoman ,Jeffrey,John,Martin,Jonathan,Sherman,Ryan,Vivien,Tom,0.0,0.0
+423,John,Jonathan,Karen,Khoman ,Alex,Jessica,Max,Martin,Chris,Jeffrey,Danny,Sherman,0.0,0.0
+424,Martin,Danny,Joeseph,Jeffrey,Michael,Karen,Jessica,Jose,Sherman,Tom,Khoman ,Marcus,4.0,0.0
+425,Jessica,Michael,Chris,Max,Jose,Martin,Tom,Marcus,Vivien,Frank,Danny,Karen,0.0,1.0
+426,Martin,Tom,Danny,Jeffrey,Jose,Marcus,Joeseph,Jessica,Sherman,Jonathan,Michael,John,0.0,1.0
+427,Khoman ,Alex,Chris,Ryan,Max,Jonathan,Joeseph,Jessica,Danny,Martin,Marcus,Jose,0.0,3.0
+428,Karen,Danny,John,Max,Tom,Frank,Jonathan,Jeffrey,Khoman ,Michael,Marcus,Ryan,0.0,1.0
+429,Jose,Martin,Vivien,Jonathan,Sherman,Danny,Marcus,Tom,Jessica,Khoman ,John,Chris,6.0,0.0
+430,Danny,Karen,Marcus,Jeffrey,Chris,Jessica,Martin,Jonathan,Michael,Frank,Alex,Sherman,0.0,1.0
+431,Karen,Marcus,Tom,Michael,Vivien,Max,Alex,Ryan,Danny,Frank,Joeseph,Jonathan,0.0,2.0
+432,Sherman,Khoman ,Michael,Martin,Jessica,Karen,Jeffrey,Jonathan,Marcus,Chris,Tom,Vivien,2.0,0.0
+433,John,Marcus,Frank,Ryan,Jessica,Michael,Tom,Chris,Khoman ,Danny,Vivien,Joeseph,0.0,0.0
+434,Michael,Sherman,Jeffrey,Martin,Frank,Max,Jessica,Jonathan,Danny,Tom,Joeseph,Khoman ,0.0,0.0
+435,Martin,Max,Vivien,Alex,Danny,Tom,Chris,Khoman ,Karen,Jose,John,Jessica,0.0,0.0
+436,Martin,Alex,Jonathan,Chris,Karen,Ryan,Marcus,Joeseph,Jessica,Tom,Jeffrey,Vivien,0.0,1.0
+437,Alex,Jeffrey,Michael,Danny,John,Tom,Karen,Marcus,Joeseph,Vivien,Martin,Jessica,0.0,2.0
+438,Jessica,Jonathan,Michael,Tom,Marcus,Chris,Ryan,Sherman,Vivien,John,Joeseph,Martin,0.0,0.0
+439,Jeffrey,Khoman ,Jose,Joeseph,Sherman,Marcus,Vivien,Tom,Frank,Karen,Alex,Ryan,1.0,0.0
+440,Danny,Khoman ,Ryan,Chris,Michael,Frank,Tom,Vivien,Jonathan,Jeffrey,Max,Karen,0.0,0.0
+441,Marcus,Sherman,Michael,Ryan,Frank,Jonathan,Karen,Khoman ,Jessica,John,Alex,Martin,2.0,0.0
+442,Sherman,Chris,John,Ryan,Joeseph,Danny,Alex,Max,Vivien,Tom,Jonathan,Khoman ,0.0,0.0
+443,Chris,Jose,Karen,Martin,Max,Danny,John,Michael,Jessica,Jeffrey,Marcus,Joeseph,0.0,0.0
+444,Max,Jonathan,Jessica,Frank,Alex,Jeffrey,Marcus,Karen,Ryan,Tom,Martin,Chris,4.0,0.0
+445,Sherman,Chris,Tom,Jose,Vivien,Michael,Max,Jonathan,Jessica,Karen,Martin,Jeffrey,0.0,2.0
+446,Michael,Karen,Khoman ,Jose,Jessica,Jonathan,Max,Danny,Tom,Sherman,Alex,Vivien,4.0,0.0
+447,Frank,Ryan,Danny,Khoman ,Jessica,Vivien,John,Alex,Jonathan,Max,Chris,Sherman,5.0,0.0
+448,Karen,Jessica,Michael,Jeffrey,Alex,Max,Martin,Joeseph,Sherman,Marcus,Khoman ,Jonathan,0.0,0.0
+449,Jonathan,Max,Chris,Jessica,Alex,Ryan,Danny,Martin,Karen,Michael,Joeseph,Vivien,0.0,4.0
+450,Martin,Jeffrey,Marcus,Ryan,Jonathan,John,Alex,Jose,Tom,Michael,Max,Karen,0.0,0.0
+451,Chris,Sherman,Vivien,Max,Tom,Khoman ,Jeffrey,Michael,Jonathan,Jose,Joeseph,Danny,0.0,6.0
+452,Danny,John,Ryan,Max,Frank,Khoman ,Alex,Vivien,Jessica,Marcus,Jose,Martin,1.0,0.0
+453,Jose,Ryan,Jeffrey,Sherman,Alex,Marcus,John,Martin,Michael,Khoman ,Danny,Max,0.0,2.0
+454,Frank,John,Max,Jessica,Sherman,Jose,Vivien,Joeseph,Khoman ,Alex,Michael,Danny,0.0,1.0
+455,Jonathan,Frank,Martin,Khoman ,Chris,Max,John,Vivien,Michael,Jeffrey,Alex,Sherman,1.0,0.0
+456,Max,Frank,Jose,Vivien,Khoman ,Sherman,Danny,Jeffrey,Alex,Chris,Ryan,Marcus,3.0,0.0
+457,Jessica,Chris,Khoman ,Max,Jose,Danny,Jonathan,Marcus,Michael,John,Tom,Alex,2.0,0.0
+458,Karen,Sherman,Marcus,Alex,Jeffrey,Jessica,Ryan,Jose,Michael,Vivien,Tom,Joeseph,0.0,2.0
+459,Khoman ,Jeffrey,Chris,Sherman,Marcus,Danny,Karen,Jose,Vivien,Joeseph,Michael,Jessica,0.0,4.0
+460,Sherman,John,Ryan,Jonathan,Chris,Jose,Khoman ,Joeseph,Alex,Max,Michael,Karen,0.0,1.0
+461,Chris,Karen,Martin,Michael,Jessica,Tom,Alex,John,Danny,Vivien,Max,Jeffrey,0.0,1.0
+462,Frank,Joeseph,Ryan,Jonathan,Khoman ,John,Marcus,Jose,Vivien,Tom,Jessica,Danny,0.0,0.0
+463,Marcus,Michael,Martin,Jonathan,Jeffrey,Frank,Max,Karen,Khoman ,Chris,Jose,Danny,2.0,0.0
+464,Martin,Vivien,John,Khoman ,Marcus,Jessica,Frank,Jonathan,Chris,Jeffrey,Danny,Sherman,0.0,2.0
+465,Alex,Vivien,Karen,Joeseph,Jonathan,Danny,Ryan,John,Martin,Frank,Max,Michael,2.0,0.0
+466,Chris,Marcus,John,Ryan,Jose,Sherman,Martin,Joeseph,Jeffrey,Max,Khoman ,Karen,0.0,3.0
+467,Sherman,Frank,Jessica,Chris,Tom,Karen,Martin,Alex,Ryan,Danny,Jose,Vivien,0.0,2.0
+468,Frank,Vivien,Karen,Jonathan,Danny,Marcus,Jessica,Alex,John,Jose,Chris,Martin,5.0,0.0
+469,Jose,Sherman,Chris,Karen,Jeffrey,Frank,Ryan,Danny,Tom,Joeseph,Michael,Vivien,0.0,0.0
+470,Jonathan,Max,Jeffrey,Sherman,Martin,Michael,Alex,Danny,Jose,Marcus,Frank,Chris,1.0,0.0
+471,Jose,Marcus,Khoman ,Max,Alex,Chris,Michael,Danny,Jessica,Sherman,John,Jonathan,0.0,4.0
+472,John,Jose,Sherman,Jonathan,Karen,Jessica,Frank,Jeffrey,Alex,Max,Vivien,Danny,0.0,0.0
+473,Danny,Joeseph,Khoman ,Jessica,Michael,Martin,Marcus,Vivien,Jose,Frank,Karen,Ryan,1.0,0.0
+474,Vivien,Danny,Sherman,Jessica,Joeseph,Marcus,Karen,Jose,Frank,Max,Jonathan,John,0.0,1.0
+475,Frank,Khoman ,Alex,John,Tom,Danny,Michael,Marcus,Ryan,Martin,Jose,Joeseph,0.0,1.0
+476,Jonathan,Alex,John,Sherman,Karen,Jeffrey,Max,Ryan,Tom,Michael,Joeseph,Chris,1.0,0.0
+477,Alex,Khoman ,John,Vivien,Ryan,Tom,Karen,Max,Martin,Jessica,Joeseph,Danny,0.0,4.0
+478,Chris,Jonathan,Frank,Sherman,Joeseph,Jessica,Khoman ,Marcus,John,Michael,Tom,Alex,4.0,0.0
+479,Ryan,Jeffrey,Tom,Khoman ,Jonathan,Jose,Alex,Frank,Sherman,Jessica,Michael,Karen,0.0,0.0
+480,John,Danny,Max,Vivien,Sherman,Alex,Michael,Chris,Jessica,Joeseph,Khoman ,Jeffrey,0.0,1.0
+481,Jose,Khoman ,Max,Ryan,Jonathan,Michael,Tom,John,Alex,Karen,Vivien,Marcus,4.0,0.0
+482,John,Chris,Khoman ,Marcus,Sherman,Tom,Alex,Jonathan,Ryan,Joeseph,Jose,Max,0.0,4.0
+483,Tom,Khoman ,Joeseph,Jonathan,John,Ryan,Danny,Sherman,Alex,Karen,Martin,Vivien,0.0,1.0
+484,Sherman,Danny,Chris,Karen,Alex,Martin,Ryan,Khoman ,Jonathan,Michael,Frank,Marcus,0.0,3.0
+485,Jeffrey,Jessica,Jose,Martin,Marcus,Sherman,Michael,John,Tom,Frank,Karen,Vivien,0.0,1.0
+486,Marcus,Danny,Vivien,Tom,Max,Khoman ,Joeseph,Frank,Martin,Karen,Michael,Chris,0.0,2.0
+487,Jeffrey,Frank,John,Martin,Jessica,Alex,Ryan,Joeseph,Michael,Max,Tom,Khoman ,1.0,0.0
+488,Michael,John,Khoman ,Ryan,Tom,Martin,Sherman,Chris,Jonathan,Alex,Max,Karen,0.0,0.0
+489,Jeffrey,Khoman ,Ryan,Danny,Marcus,Michael,Chris,Joeseph,Frank,Jose,Tom,Vivien,0.0,0.0
+490,Frank,Michael,Jessica,Jose,John,Tom,Vivien,Marcus,Karen,Alex,Chris,Jonathan,2.0,0.0
+491,Danny,Sherman,Jonathan,Karen,Chris,Jose,Frank,Michael,Vivien,Marcus,Joeseph,Alex,1.0,0.0
+492,Sherman,Jeffrey,Marcus,Khoman ,Karen,Jose,Frank,Max,Chris,Jonathan,Tom,Danny,0.0,0.0
+493,Karen,Joeseph,Jonathan,Martin,Michael,Jose,Sherman,Danny,Tom,Chris,Ryan,Vivien,4.0,0.0
+494,Sherman,Marcus,Danny,Alex,Jeffrey,Chris,Martin,Tom,Ryan,Frank,John,Vivien,0.0,1.0
+495,Michael,Jeffrey,Chris,Jonathan,Jessica,Karen,Max,Marcus,Khoman ,Tom,Vivien,Frank,2.0,0.0
+496,Max,Chris,Joeseph,Martin,Khoman ,Ryan,Alex,Jonathan,Frank,John,Karen,Sherman,0.0,2.0
+497,Alex,Max,Danny,Jose,Martin,Vivien,Sherman,Ryan,Karen,Jonathan,John,Joeseph,1.0,0.0
+498,Karen,Frank,Joeseph,Sherman,Jessica,Alex,Max,Jose,Ryan,Vivien,Martin,John,1.0,0.0
+499,John,Tom,Frank,Sherman,Jessica,Alex,Max,Jeffrey,Marcus,Danny,Joeseph,Jonathan,0.0,3.0
+500,Jeffrey,Jonathan,Max,Chris,Marcus,Martin,Tom,John,Alex,Frank,Michael,Khoman ,0.0,0.0
+501,Vivien,Khoman ,John,Martin,Jonathan,Max,Danny,Ryan,Tom,Michael,Chris,Marcus,2.0,0.0
+502,Sherman,Jessica,John,Marcus,Chris,Karen,Tom,Michael,Alex,Max,Jonathan,Jeffrey,0.0,2.0
+503,Jose,Tom,Vivien,Sherman,Chris,Marcus,Jeffrey,Alex,Michael,Ryan,Frank,Max,0.0,2.0
+504,Vivien,Jonathan,Jessica,Alex,Joeseph,Sherman,Max,Karen,Chris,Ryan,John,Tom,4.0,0.0
+505,Vivien,Jose,Chris,Alex,Danny,Martin,Joeseph,Michael,Ryan,John,Sherman,Jonathan,0.0,0.0
+506,Sherman,Vivien,Khoman ,Joeseph,Chris,Tom,Marcus,Ryan,Martin,Danny,Jose,Jeffrey,0.0,2.0
+507,Vivien,Jose,Joeseph,Martin,Chris,Danny,Michael,Jessica,Khoman ,Max,Sherman,John,2.0,0.0
+508,Michael,Jessica,John,Ryan,Karen,Danny,Jose,Marcus,Frank,Jonathan,Tom,Vivien,0.0,0.0
+509,Martin,Jessica,Jose,Ryan,Karen,Jeffrey,Joeseph,Chris,Alex,Danny,John,Khoman ,3.0,0.0
+510,Jonathan,Tom,Joeseph,Marcus,Vivien,John,Michael,Jessica,Ryan,Sherman,Chris,Frank,0.0,1.0
+511,Chris,Sherman,Marcus,Jessica,Michael,Ryan,Martin,Tom,Jonathan,Karen,Vivien,Frank,0.0,3.0
+512,Joeseph,Chris,Jeffrey,Khoman ,Danny,Jose,Sherman,John,Vivien,Frank,Tom,Karen,1.0,0.0
+513,Vivien,Joeseph,Martin,John,Chris,Max,Khoman ,Jonathan,Alex,Michael,Frank,Marcus,0.0,2.0
+514,Martin,Frank,Alex,Jose,Ryan,Danny,Chris,Joeseph,John,Max,Michael,Tom,3.0,0.0
+515,Jeffrey,Ryan,Martin,Joeseph,Jonathan,Danny,Sherman,Michael,Chris,Tom,Jose,Jessica,3.0,0.0
+516,Jonathan,Jose,Ryan,Vivien,Tom,Martin,Michael,Marcus,Jeffrey,Karen,Chris,Max,2.0,0.0
+517,Jose,Danny,John,Alex,Joeseph,Sherman,Max,Jessica,Marcus,Frank,Michael,Martin,0.0,1.0
+518,Martin,Khoman ,Max,Michael,Sherman,Jessica,Danny,Jeffrey,Jonathan,Joeseph,Frank,Vivien,0.0,4.0
+519,Tom,Alex,Danny,Michael,Frank,Jose,Jeffrey,Max,Martin,Marcus,Chris,Joeseph,3.0,0.0
+520,John,Jonathan,Jeffrey,Ryan,Chris,Khoman ,Jose,Frank,Martin,Max,Danny,Vivien,0.0,4.0
+521,Vivien,Ryan,Martin,Michael,Tom,Jeffrey,Jonathan,Max,Jessica,Chris,Karen,Danny,0.0,1.0
+522,Vivien,Chris,John,Frank,Danny,Sherman,Jose,Jonathan,Martin,Khoman ,Ryan,Jessica,0.0,1.0
+523,Martin,Danny,Jessica,Khoman ,Sherman,Max,Alex,Jonathan,Ryan,Karen,Joeseph,John,1.0,0.0
+524,Tom,Karen,Jose,Khoman ,Vivien,Ryan,Jeffrey,Joeseph,Danny,Alex,Martin,Chris,1.0,0.0
+525,Frank,Jeffrey,Jessica,Vivien,Martin,Sherman,John,Marcus,Alex,Michael,Danny,Chris,4.0,0.0
+526,Joeseph,Jose,Chris,Khoman ,Jonathan,Michael,Martin,Karen,Jessica,Alex,Frank,Ryan,1.0,0.0
+527,John,Jonathan,Sherman,Marcus,Jeffrey,Vivien,Chris,Khoman ,Joeseph,Karen,Martin,Tom,2.0,0.0
+528,Chris,Michael,Karen,Sherman,Khoman ,Jeffrey,Jonathan,Tom,Joeseph,Frank,Jessica,Ryan,0.0,1.0
+529,Jeffrey,Chris,Jonathan,Ryan,Martin,Karen,Marcus,Jose,Khoman ,Joeseph,Alex,Danny,0.0,0.0
+530,Marcus,Jose,Khoman ,Martin,Michael,Tom,Karen,Chris,Alex,Sherman,Joeseph,Jessica,1.0,0.0
+531,Jonathan,Alex,Max,Karen,Marcus,Tom,Sherman,Jessica,Jose,Danny,Jeffrey,Chris,0.0,3.0
+532,Karen,Danny,Martin,Joeseph,Tom,Chris,Jose,Sherman,Frank,Khoman ,Jessica,Vivien,0.0,3.0
+533,Max,Martin,Alex,Jeffrey,Michael,Jose,Vivien,Sherman,Joeseph,Jessica,Khoman ,Frank,0.0,2.0
+534,Max,Martin,Tom,Ryan,Marcus,Frank,Joeseph,Alex,Jeffrey,Jessica,Vivien,John,0.0,1.0
+535,Frank,Ryan,Jonathan,Jose,Joeseph,Jessica,Danny,Jeffrey,John,Vivien,Sherman,Marcus,3.0,0.0
+536,Max,Jonathan,John,Joeseph,Chris,Jose,Danny,Khoman ,Tom,Jeffrey,Jessica,Martin,0.0,1.0
+537,Jose,Jonathan,Sherman,Marcus,Jeffrey,Max,Khoman ,Frank,Chris,Alex,Joeseph,Martin,1.0,0.0
+538,Michael,Jonathan,Tom,Jose,Karen,Max,Marcus,John,Alex,Danny,Chris,Joeseph,3.0,0.0
+539,Max,Karen,Frank,Marcus,Vivien,Jessica,Jeffrey,Alex,Jonathan,Joeseph,Chris,Tom,3.0,0.0
+540,Alex,Frank,Michael,Jose,Marcus,Vivien,Danny,John,Jeffrey,Max,Jessica,Sherman,1.0,0.0
+541,Max,Jessica,Danny,Michael,Marcus,Sherman,Alex,Jose,Joeseph,Chris,Jonathan,Frank,0.0,0.0
+542,Tom,Jeffrey,Jessica,John,Alex,Chris,Max,Danny,Michael,Sherman,Jonathan,Ryan,0.0,5.0
+543,Jose,Khoman ,Ryan,Marcus,Chris,Jessica,Sherman,Danny,Martin,Tom,John,Alex,1.0,0.0
+544,Frank,Joeseph,Danny,Sherman,Chris,Marcus,Khoman ,Michael,Jeffrey,Max,Martin,John,0.0,0.0
+545,Jessica,Jonathan,Martin,Alex,Karen,John,Tom,Jose,Joeseph,Max,Jeffrey,Marcus,1.0,0.0
+546,Jeffrey,Michael,Sherman,Tom,John,Jonathan,Alex,Chris,Jose,Joeseph,Vivien,Martin,0.0,0.0
+547,Frank,Jose,Sherman,Chris,Karen,Jonathan,Ryan,Vivien,John,Alex,Tom,Danny,3.0,0.0
+548,Jeffrey,Marcus,Martin,Max,Vivien,Khoman ,Ryan,Michael,Sherman,Danny,Jose,Alex,0.0,1.0
+549,John,Michael,Ryan,Alex,Khoman ,Tom,Sherman,Frank,Jose,Karen,Martin,Jessica,0.0,4.0
+550,Jessica,Ryan,Karen,Jeffrey,Marcus,Max,Sherman,Khoman ,Michael,Alex,Martin,Frank,0.0,1.0
+551,Marcus,Jonathan,Chris,Frank,Michael,Alex,Danny,Max,Ryan,Sherman,Khoman ,Jessica,0.0,0.0
+552,Michael,Alex,Jessica,Sherman,Khoman ,Vivien,Tom,Martin,Chris,Ryan,Jeffrey,John,3.0,0.0
+553,Frank,Max,John,Jeffrey,Khoman ,Michael,Alex,Vivien,Tom,Marcus,Joeseph,Jose,2.0,0.0
+554,Jessica,Marcus,Michael,Martin,Jose,Tom,Jonathan,Karen,Ryan,Khoman ,Joeseph,John,0.0,1.0
+555,John,Marcus,Jeffrey,Khoman ,Max,Tom,Jonathan,Martin,Sherman,Ryan,Joeseph,Chris,0.0,2.0
+556,John,Danny,Jessica,Jonathan,Karen,Vivien,Chris,Michael,Khoman ,Marcus,Sherman,Jeffrey,4.0,0.0
+557,Vivien,Jonathan,Max,Sherman,Joeseph,Michael,Jessica,Ryan,Khoman ,Frank,Marcus,Karen,1.0,0.0
+558,Jose,Marcus,John,Sherman,Ryan,Max,Khoman ,Chris,Joeseph,Karen,Michael,Frank,0.0,3.0
+559,Danny,Sherman,John,Jose,Joeseph,Frank,Ryan,Martin,Jonathan,Marcus,Michael,Alex,2.0,0.0
+560,Alex,John,Tom,Jonathan,Michael,Sherman,Marcus,Chris,Vivien,Jose,Karen,Danny,0.0,2.0
+561,Jose,Jessica,Vivien,Joeseph,Jonathan,Max,Martin,Danny,Karen,Ryan,Sherman,Frank,1.0,0.0
+562,Max,Chris,Marcus,Vivien,Frank,Joeseph,Jonathan,Jessica,Alex,Martin,Jose,Jeffrey,0.0,1.0
+563,Jessica,Tom,Danny,Frank,Vivien,Khoman ,Alex,Karen,Martin,Marcus,Max,Sherman,4.0,0.0
+564,Frank,Jose,Vivien,Ryan,Marcus,Jonathan,Sherman,Tom,Danny,Michael,Karen,Chris,3.0,0.0
+565,John,Jeffrey,Jessica,Ryan,Chris,Jose,Karen,Max,Danny,Joeseph,Marcus,Jonathan,0.0,2.0
+566,Vivien,Frank,Michael,Sherman,Khoman ,Tom,Max,Martin,Danny,Jose,Jessica,Jeffrey,0.0,1.0
+567,Frank,John,Karen,Max,Chris,Jessica,Marcus,Tom,Ryan,Joeseph,Jonathan,Khoman ,0.0,0.0
+568,Frank,Michael,Ryan,Marcus,Karen,Chris,Sherman,Jonathan,Max,Martin,Vivien,Danny,0.0,2.0
+569,Joeseph,Chris,Jeffrey,Max,Frank,Vivien,Martin,Jose,Tom,Danny,Jonathan,Michael,0.0,1.0
+570,Karen,Sherman,Jeffrey,Marcus,Chris,Jose,Ryan,Khoman ,Alex,Joeseph,Jonathan,Jessica,0.0,1.0
+571,Sherman,Chris,Danny,Martin,Ryan,Karen,Vivien,Frank,Joeseph,Jonathan,Jessica,Max,0.0,3.0
+572,Karen,Max,Tom,Frank,Marcus,Michael,Ryan,Chris,Jose,Danny,John,Vivien,0.0,0.0
+573,Marcus,Sherman,Michael,Jonathan,Jessica,Max,Danny,Frank,Alex,Khoman ,Chris,Jeffrey,0.0,0.0
+574,Khoman ,Danny,Martin,Michael,John,Vivien,Jessica,Joeseph,Alex,Sherman,Ryan,Karen,2.0,0.0
+575,Tom,Khoman ,Jose,Sherman,Karen,Martin,Chris,Ryan,Jeffrey,Jonathan,John,Alex,1.0,0.0
+576,Tom,Frank,Chris,John,Vivien,Jessica,Sherman,Jose,Martin,Jeffrey,Khoman ,Jonathan,0.0,2.0
+577,Ryan,Jessica,Chris,Martin,John,Joeseph,Frank,Jose,Sherman,Karen,Khoman ,Vivien,0.0,4.0
+578,Khoman ,Jose,Max,Michael,Karen,Alex,Chris,Jonathan,Tom,Martin,Jeffrey,Frank,0.0,0.0
+579,Danny,Martin,Jessica,Tom,Jose,Vivien,Alex,Jeffrey,Karen,Max,Joeseph,Michael,1.0,0.0
+580,Sherman,Alex,Jonathan,Khoman ,Karen,Joeseph,Max,Frank,Tom,Jose,Marcus,Chris,2.0,0.0
+581,Sherman,Danny,Alex,Ryan,Jessica,Khoman ,Frank,John,Marcus,Joeseph,Jose,Michael,0.0,2.0
+582,Joeseph,Khoman ,Ryan,Alex,Sherman,Chris,Jonathan,Tom,Jessica,Martin,Vivien,Frank,0.0,4.0
+583,Jonathan,Danny,Ryan,Michael,Marcus,Joeseph,Jose,Max,Martin,Tom,Alex,John,4.0,0.0
+584,Martin,Michael,Chris,Karen,Ryan,Joeseph,Tom,Jessica,John,Vivien,Jonathan,Max,0.0,0.0
+585,Khoman ,John,Sherman,Karen,Frank,Max,Joeseph,Alex,Michael,Jessica,Danny,Jose,0.0,2.0
+586,Chris,Vivien,Jessica,Jeffrey,Tom,Alex,Karen,Marcus,Max,Khoman ,Martin,Michael,0.0,2.0
+587,Frank,Ryan,Joeseph,Jessica,Marcus,Martin,Alex,Tom,Jeffrey,Michael,Jose,Max,1.0,0.0
+588,Chris,Max,Michael,Tom,Alex,Jessica,Martin,Vivien,Jonathan,Khoman ,Ryan,Joeseph,0.0,4.0
+589,Jonathan,Khoman ,Jeffrey,Alex,Martin,Frank,John,Tom,Marcus,Max,Jose,Vivien,3.0,0.0
+590,Chris,Sherman,Jessica,Alex,Michael,Joeseph,Karen,Khoman ,John,Martin,Frank,Marcus,0.0,1.0
+591,Jeffrey,Sherman,Ryan,Tom,Jose,Khoman ,John,Joeseph,Jessica,Chris,Frank,Alex,0.0,0.0
+592,Frank,Khoman ,Danny,Chris,Michael,Vivien,Jessica,Karen,Jose,John,Joeseph,Jonathan,0.0,0.0
+593,John,Michael,Marcus,Jose,Vivien,Frank,Max,Danny,Jessica,Joeseph,Martin,Jonathan,0.0,1.0
+594,Vivien,Martin,Marcus,John,Jose,Tom,Max,Karen,Danny,Chris,Jeffrey,Frank,0.0,2.0
+595,Jose,Sherman,Jeffrey,Ryan,Martin,Joeseph,John,Vivien,Jessica,Frank,Karen,Khoman ,0.0,1.0
+596,Tom,Sherman,Vivien,Karen,Ryan,Frank,Danny,Marcus,Max,Martin,Joeseph,Michael,0.0,1.0
+597,Alex,Michael,Frank,Martin,Marcus,Ryan,Vivien,Max,Chris,Jose,Joeseph,Danny,0.0,2.0
+598,Karen,Jose,Chris,Ryan,Max,Jeffrey,Danny,Tom,Alex,Michael,Vivien,Joeseph,0.0,1.0
+599,Khoman ,Marcus,John,Martin,Frank,Jeffrey,Jessica,Sherman,Chris,Michael,Alex,Tom,2.0,0.0
+600,Jeffrey,Tom,Marcus,John,Danny,Frank,Joeseph,Alex,Karen,Jessica,Sherman,Michael,0.0,0.0
+601,Michael,John,Jessica,Danny,Alex,Ryan,Joeseph,Khoman ,Tom,Karen,Sherman,Frank,0.0,0.0
+602,John,Khoman ,Jonathan,Chris,Frank,Vivien,Ryan,Alex,Max,Sherman,Tom,Jessica,4.0,0.0
+603,Ryan,Frank,Max,Alex,Karen,Vivien,Jonathan,Michael,Jose,Jeffrey,Joeseph,Tom,0.0,2.0
+604,Jeffrey,Tom,Alex,Khoman ,Jose,Frank,Karen,Sherman,Michael,John,Ryan,Marcus,1.0,0.0
+605,Vivien,Danny,Jeffrey,Jonathan,Max,Alex,Chris,Marcus,Michael,Jose,Ryan,Karen,2.0,0.0
+606,Frank,Jose,Jessica,Sherman,Michael,John,Karen,Ryan,Vivien,Martin,Chris,Max,2.0,0.0
+607,Michael,Frank,Sherman,Marcus,Joeseph,Jose,Tom,Max,Khoman ,Martin,John,Alex,5.0,0.0
+608,Marcus,Jessica,Chris,Jose,Vivien,Max,Alex,Jonathan,Frank,Karen,Danny,Joeseph,0.0,3.0
+609,Frank,Jessica,Jeffrey,John,Tom,Sherman,Alex,Jonathan,Michael,Vivien,Joeseph,Karen,0.0,2.0
+610,Danny,Khoman ,Joeseph,Jose,Martin,Jeffrey,Jonathan,Marcus,Tom,Sherman,Max,Michael,3.0,0.0
+611,Chris,Alex,Marcus,Martin,John,Max,Jessica,Karen,Jeffrey,Joeseph,Jonathan,Frank,0.0,7.0
+612,Jessica,Marcus,John,Jeffrey,Martin,Vivien,Karen,Sherman,Ryan,Frank,Max,Tom,1.0,0.0
+613,Max,Jonathan,Marcus,Khoman ,Chris,Alex,Jessica,Karen,Jeffrey,Sherman,Ryan,John,0.0,2.0
+614,Max,Vivien,Martin,Tom,Joeseph,Michael,Karen,Frank,Danny,Marcus,Jessica,Khoman ,0.0,2.0
+615,Max,Jessica,Marcus,Sherman,Tom,Karen,Danny,Jeffrey,Alex,Martin,Michael,Chris,0.0,2.0
+616,Khoman ,Danny,Jessica,Chris,Sherman,Vivien,Jonathan,Joeseph,Alex,Jeffrey,Michael,Ryan,0.0,0.0
+617,Jeffrey,Alex,Ryan,Vivien,Danny,Chris,Max,Khoman ,Sherman,Martin,Joeseph,John,1.0,0.0
+618,Martin,Sherman,Michael,Jonathan,Marcus,Alex,Joeseph,Jessica,Ryan,Max,Frank,Jose,0.0,2.0
+619,Vivien,Karen,Alex,Martin,Frank,Marcus,Khoman ,Danny,Jeffrey,Joeseph,Michael,Jose,0.0,3.0
+620,Sherman,Marcus,Ryan,Chris,Vivien,Michael,Jeffrey,Karen,Alex,Joeseph,Jose,Jessica,0.0,2.0
+621,Michael,Jose,Vivien,Tom,Danny,Martin,Jessica,Joeseph,Sherman,Khoman ,Chris,Marcus,3.0,0.0
+622,Alex,Jeffrey,Frank,Michael,Jonathan,Tom,Karen,Joeseph,Danny,John,Khoman ,Vivien,0.0,1.0
+623,Vivien,Alex,Sherman,Ryan,Joeseph,Marcus,Jose,Martin,Jeffrey,Khoman ,Karen,Max,0.0,2.0
+624,Frank,Tom,John,Max,Alex,Jeffrey,Vivien,Danny,Jose,Sherman,Michael,Marcus,0.0,4.0
+625,Jeffrey,Sherman,Marcus,Frank,Jose,Jessica,Danny,Max,Karen,Jonathan,Ryan,Michael,0.0,1.0
+626,Jessica,Chris,Khoman ,Alex,Vivien,Max,Jeffrey,Martin,Marcus,Frank,Jose,Danny,0.0,4.0
+627,John,Alex,Chris,Danny,Vivien,Michael,Jose,Marcus,Jessica,Tom,Sherman,Frank,0.0,0.0
+628,Frank,Marcus,Joeseph,Chris,Jonathan,Alex,Jessica,Max,Michael,Karen,Vivien,Jeffrey,0.0,2.0
+629,Jose,Tom,Jessica,Frank,John,Ryan,Sherman,Khoman ,Jonathan,Karen,Vivien,Joeseph,0.0,2.0
+630,Jeffrey,Michael,Jose,Ryan,Alex,Chris,Khoman ,Vivien,Max,Sherman,Frank,Marcus,0.0,1.0
+631,Joeseph,John,Jeffrey,Khoman ,Martin,Frank,Tom,Chris,Jonathan,Ryan,Jessica,Michael,1.0,0.0
+632,John,Vivien,Michael,Ryan,Tom,Jeffrey,Jessica,Martin,Jose,Chris,Frank,Jonathan,0.0,2.0
+633,Jose,Karen,Sherman,Jeffrey,Jessica,Marcus,Ryan,Danny,Tom,Martin,Chris,Vivien,1.0,0.0
+634,Ryan,Tom,Vivien,Marcus,Karen,Jessica,Chris,Frank,Martin,Max,Alex,John,1.0,0.0
+635,Alex,Jeffrey,John,Martin,Tom,Jonathan,Chris,Frank,Marcus,Jose,Danny,Max,0.0,2.0
+636,Vivien,Marcus,Chris,Jose,Jonathan,Danny,Sherman,Joeseph,John,Karen,Frank,Jessica,1.0,0.0
+637,Max,Jeffrey,Tom,Martin,Danny,Alex,Vivien,Sherman,Joeseph,Khoman ,Ryan,Marcus,0.0,1.0
+638,Jeffrey,Jonathan,Frank,Sherman,Alex,Tom,Jose,Danny,Martin,Chris,Max,John,0.0,0.0
+639,Joeseph,Tom,Khoman ,Jeffrey,Jonathan,Marcus,Michael,Alex,John,Karen,Martin,Chris,2.0,0.0
+640,Joeseph,Martin,Ryan,Jessica,Marcus,Alex,Max,Chris,Danny,Vivien,Frank,Khoman ,0.0,3.0
+641,Vivien,Jonathan,Danny,Karen,Tom,Jeffrey,Frank,Joeseph,Ryan,Chris,Khoman ,Martin,2.0,0.0
+642,Joeseph,Jonathan,Khoman ,Michael,Chris,John,Karen,Frank,Jessica,Jose,Sherman,Martin,0.0,2.0
+643,Tom,Karen,Danny,John,Jonathan,Alex,Sherman,Ryan,Vivien,Khoman ,Joeseph,Jeffrey,0.0,1.0
+644,John,Martin,Jose,Chris,Michael,Frank,Tom,Ryan,Khoman ,Danny,Joeseph,Jeffrey,0.0,0.0
+645,Joeseph,Danny,Karen,Jonathan,Sherman,Martin,Vivien,Alex,Jose,Tom,Ryan,Jeffrey,3.0,0.0
+646,Joeseph,Chris,Marcus,Frank,Jonathan,Khoman ,Tom,Alex,Ryan,John,Sherman,Jeffrey,4.0,0.0
+647,Jessica,Karen,Ryan,Tom,Jonathan,Frank,Danny,Alex,Max,Sherman,Khoman ,Joeseph,2.0,0.0
+648,Martin,Khoman ,Jessica,Chris,John,Danny,Alex,Frank,Karen,Jose,Ryan,Vivien,0.0,2.0
+649,Ryan,Jessica,Michael,John,Joeseph,Tom,Danny,Jeffrey,Khoman ,Marcus,Max,Karen,0.0,1.0
+650,Jonathan,Joeseph,Sherman,Frank,Ryan,Khoman ,Chris,Martin,Karen,Marcus,John,Jose,3.0,0.0
+651,Ryan,Chris,Max,Jeffrey,Vivien,Marcus,Khoman ,Frank,Alex,Karen,Joeseph,Martin,0.0,2.0
+652,Karen,Jeffrey,Michael,Khoman ,Sherman,Chris,Jonathan,Frank,Joeseph,Vivien,John,Danny,0.0,3.0
+653,Marcus,Vivien,Frank,Khoman ,Danny,Max,Jeffrey,Jose,Alex,Joeseph,Tom,Michael,2.0,0.0
+654,Khoman ,Vivien,Danny,Martin,Jessica,Frank,Jonathan,Michael,Max,Joeseph,Karen,Chris,2.0,0.0
+655,Marcus,Sherman,Danny,Jessica,Joeseph,Max,Khoman ,John,Michael,Alex,Tom,Ryan,3.0,0.0
+656,Vivien,Khoman ,Alex,Sherman,Marcus,Frank,Jeffrey,Tom,Chris,Martin,Danny,Ryan,1.0,0.0
+657,Karen,Michael,Ryan,Alex,Danny,Chris,Jose,Martin,Jessica,Jonathan,John,Marcus,0.0,1.0
+658,Chris,Danny,Jose,Sherman,Marcus,Frank,Tom,Jessica,Vivien,Ryan,Martin,Joeseph,1.0,0.0
+659,Marcus,Max,John,Jessica,Sherman,Chris,Michael,Martin,Jeffrey,Ryan,Jonathan,Tom,0.0,3.0
+660,Martin,Vivien,Alex,Michael,Jose,Jessica,Tom,Chris,Khoman ,Marcus,Ryan,Sherman,5.0,0.0
+661,Frank,Alex,Chris,John,Vivien,Sherman,Michael,Martin,Tom,Jonathan,Marcus,Joeseph,0.0,2.0
+662,Alex,Danny,Jeffrey,Jessica,Martin,Michael,Khoman ,Ryan,Karen,Frank,Marcus,John,2.0,0.0
+663,Alex,Jessica,Max,Jeffrey,Chris,John,Karen,Tom,Jose,Danny,Michael,Jonathan,0.0,5.0
+664,Max,Alex,Chris,Karen,Marcus,Sherman,Jessica,Khoman ,John,Jonathan,Martin,Jose,0.0,4.0
+665,Chris,Jessica,Alex,Tom,Frank,Michael,Marcus,John,Joeseph,Khoman ,Martin,Jeffrey,0.0,0.0
+666,Joeseph,John,Alex,Jonathan,Frank,Danny,Tom,Jessica,Khoman ,Karen,Ryan,Max,3.0,0.0
+667,Ryan,Marcus,Martin,Jose,Khoman ,Danny,Max,Michael,Jeffrey,Chris,Karen,Alex,2.0,0.0
+668,Karen,Vivien,Tom,Sherman,John,Max,Martin,Jessica,Jose,Danny,Khoman ,Michael,0.0,4.0
+669,Michael,Frank,Sherman,Khoman ,Danny,Max,Karen,Jonathan,Marcus,Tom,Jessica,Vivien,1.0,0.0
+670,Karen,Vivien,Danny,John,Tom,Ryan,Frank,Chris,Sherman,Jose,Alex,Jessica,0.0,0.0
+671,Chris,Max,Alex,Martin,Vivien,John,Joeseph,Karen,Khoman ,Jose,Tom,Jeffrey,0.0,3.0
+672,Jose,Jeffrey,Ryan,Max,Tom,Marcus,Jessica,Vivien,John,Karen,Khoman ,Alex,0.0,1.0
+673,Vivien,Khoman ,Jessica,Max,Sherman,Tom,Marcus,Michael,Ryan,Martin,Karen,Joeseph,0.0,1.0
+674,Karen,Vivien,Max,Ryan,Jonathan,Joeseph,Frank,Jose,Martin,Danny,Jessica,Marcus,0.0,1.0
+675,Khoman ,Jose,Frank,Sherman,Alex,Jessica,Ryan,Michael,John,Chris,Joeseph,Danny,1.0,0.0
+676,Ryan,Joeseph,Marcus,Jeffrey,Khoman ,Jose,Jessica,John,Michael,Sherman,Alex,Jonathan,0.0,0.0
+677,Jeffrey,Ryan,Alex,Tom,Khoman ,Danny,Michael,Jessica,Max,Marcus,Sherman,Joeseph,0.0,1.0
+678,Khoman ,Martin,Marcus,Jessica,Alex,Vivien,Max,Joeseph,Jose,Jeffrey,Ryan,Sherman,0.0,1.0
+679,Danny,Max,Jeffrey,Marcus,John,Vivien,Karen,Ryan,Jose,Sherman,Jessica,Tom,1.0,0.0
+680,Jeffrey,Tom,Vivien,Martin,Jose,Chris,Sherman,John,Alex,Danny,Jessica,Michael,0.0,0.0
+681,Danny,Max,Jeffrey,Chris,Alex,Joeseph,Marcus,Jose,Jessica,Sherman,Ryan,Karen,0.0,1.0
+682,Sherman,Alex,Jose,Frank,Chris,Martin,Karen,Joeseph,John,Vivien,Khoman ,Jonathan,0.0,2.0
+683,Ryan,Vivien,Jonathan,Frank,Jeffrey,Sherman,Max,Michael,Jose,Alex,Joeseph,Marcus,3.0,0.0
+684,Michael,Ryan,Khoman ,John,Chris,Jose,Frank,Alex,Jonathan,Karen,Jessica,Danny,0.0,3.0
+685,Danny,Michael,Karen,Max,Tom,Jonathan,Alex,Jeffrey,Joeseph,Ryan,Frank,Sherman,2.0,0.0
+686,Tom,Chris,Sherman,Jose,Danny,Marcus,Jonathan,John,Joeseph,Khoman ,Jeffrey,Ryan,0.0,2.0
+687,Chris,Jeffrey,Max,Jose,Frank,Danny,Marcus,John,Sherman,Alex,Khoman ,Jessica,4.0,0.0
+688,Alex,Vivien,Danny,Jose,Chris,Jessica,Max,Martin,Michael,Joeseph,Tom,Sherman,1.0,0.0
+689,John,Ryan,Jose,Vivien,Alex,Marcus,Sherman,Jonathan,Khoman ,Michael,Jeffrey,Chris,0.0,2.0
+690,Sherman,Tom,John,Karen,Ryan,Joeseph,Jessica,Alex,Max,Danny,Khoman ,Michael,0.0,2.0
+691,Michael,Tom,Jose,Martin,Danny,Khoman ,Marcus,Joeseph,Sherman,Chris,Karen,Frank,2.0,0.0
+692,Alex,Marcus,Frank,Joeseph,Max,Sherman,Ryan,Jonathan,Jessica,John,Vivien,Khoman ,0.0,2.0
+693,Chris,Jeffrey,Martin,Karen,Jose,Ryan,Max,Marcus,Danny,Alex,Sherman,Vivien,1.0,0.0
+694,Sherman,Jose,Frank,Ryan,Karen,Jonathan,Alex,Khoman ,Danny,Martin,Chris,Michael,3.0,0.0
+695,Martin,Jonathan,Jeffrey,Sherman,Marcus,Vivien,Karen,Danny,Jose,Joeseph,Max,Khoman ,0.0,1.0
+696,Karen,Tom,Max,Ryan,Danny,Martin,Chris,Sherman,Alex,Khoman ,Vivien,Jessica,1.0,0.0
+697,Vivien,Alex,Martin,Khoman ,Karen,Max,Jonathan,Jose,Joeseph,Frank,Jeffrey,Michael,0.0,4.0
+698,Danny,Michael,Vivien,Jessica,Jeffrey,Alex,Martin,Karen,Khoman ,Jose,Tom,Ryan,2.0,0.0
+699,Martin,Marcus,Karen,Max,Chris,Tom,Jeffrey,Jonathan,Khoman ,John,Vivien,Jessica,0.0,4.0
+700,Max,Ryan,Karen,Martin,Khoman ,John,Jose,Vivien,Alex,Jessica,Jeffrey,Sherman,0.0,2.0
+701,Karen,Danny,Sherman,Ryan,Joeseph,Michael,Jonathan,Jessica,John,Martin,Tom,Frank,1.0,0.0
+702,Joeseph,Tom,Jeffrey,Jonathan,Karen,Sherman,Michael,Alex,Max,Jessica,Danny,Jose,0.0,1.0
+703,Max,John,Chris,Frank,Ryan,Marcus,Joeseph,Karen,Danny,Jonathan,Sherman,Jessica,0.0,5.0
+704,Danny,Marcus,Ryan,Michael,Karen,Alex,Jeffrey,Tom,Khoman ,Martin,Joeseph,Jonathan,0.0,1.0
+705,Jose,Danny,Alex,Max,Marcus,Jessica,Karen,Ryan,John,Jonathan,Vivien,Martin,0.0,1.0
+706,Joeseph,Max,Tom,Michael,Marcus,Khoman ,Alex,Jeffrey,Martin,Ryan,Karen,Danny,0.0,1.0
+707,Joeseph,Martin,Alex,Tom,Vivien,Jessica,Ryan,Jeffrey,Danny,Karen,Michael,Sherman,0.0,2.0
+708,Michael,Jeffrey,Danny,Max,Alex,Jonathan,Ryan,Vivien,Karen,Marcus,John,Jose,2.0,0.0
+709,Marcus,Khoman ,Alex,Frank,Joeseph,Jessica,Chris,Max,Sherman,Ryan,Jose,Jeffrey,1.0,0.0
+710,Frank,John,Martin,Jose,Chris,Jessica,Alex,Marcus,Karen,Sherman,Tom,Jonathan,2.0,0.0
+711,John,Ryan,Joeseph,Sherman,Marcus,Jonathan,Martin,Tom,Chris,Jose,Danny,Michael,0.0,1.0
+712,John,Michael,Sherman,Joeseph,Jose,Frank,Jeffrey,Khoman ,Marcus,Danny,Max,Tom,2.0,0.0
+713,Tom,Martin,Vivien,Jonathan,Marcus,Joeseph,Sherman,Chris,Jeffrey,Frank,John,Jose,0.0,0.0
+714,Sherman,Joeseph,Vivien,Khoman ,Frank,Michael,Alex,Jeffrey,Jonathan,Chris,Ryan,Tom,4.0,0.0
+715,Chris,Martin,Jeffrey,Marcus,Karen,John,Frank,Ryan,Jessica,Joeseph,Tom,Danny,0.0,3.0
+716,Khoman ,Martin,Karen,Jeffrey,Jose,Jessica,Frank,Marcus,Jonathan,John,Alex,Michael,1.0,0.0
+717,Sherman,Jonathan,Alex,Michael,Jessica,Chris,Marcus,Jeffrey,Martin,Khoman ,Tom,Ryan,1.0,0.0
+718,Vivien,Tom,Danny,John,Michael,Karen,Frank,Jonathan,Jeffrey,Sherman,Khoman ,Ryan,0.0,1.0
+719,Alex,Frank,Sherman,Max,John,Vivien,Khoman ,Jonathan,Ryan,Michael,Jessica,Chris,0.0,1.0
+720,Jessica,Martin,Chris,Tom,Marcus,Max,Sherman,Joeseph,Danny,Jeffrey,Alex,John,0.0,2.0
+721,Vivien,Jessica,Alex,Jose,Frank,Chris,Jonathan,Jeffrey,Marcus,Tom,John,Max,2.0,0.0
+722,Frank,Khoman ,Joeseph,Michael,Max,John,Chris,Jose,Sherman,Jeffrey,Karen,Ryan,1.0,0.0
+723,Joeseph,Michael,Vivien,Marcus,Martin,Khoman ,Jessica,Danny,Jeffrey,John,Frank,Chris,0.0,0.0
+724,Tom,Joeseph,Marcus,John,Ryan,Danny,Karen,Martin,Frank,Jessica,Alex,Max,0.0,2.0
+725,Khoman ,John,Sherman,Jessica,Jeffrey,Karen,Tom,Michael,Joeseph,Max,Ryan,Danny,0.0,0.0
+726,Danny,Max,Chris,Jeffrey,Martin,Sherman,Ryan,Michael,Jonathan,Vivien,Khoman ,Alex,0.0,1.0
+727,Danny,Chris,Max,Jessica,Sherman,Jonathan,Karen,Martin,Jeffrey,Marcus,John,Khoman ,1.0,0.0
+728,John,Karen,Alex,Joeseph,Ryan,Jeffrey,Khoman ,Sherman,Jose,Tom,Marcus,Jonathan,0.0,1.0
+729,Vivien,Karen,Jonathan,Joeseph,Jose,Khoman ,Sherman,Alex,Chris,Michael,Tom,John,6.0,0.0
+730,Marcus,Vivien,Chris,Jose,Ryan,Michael,Tom,Sherman,Max,Jessica,Frank,Karen,0.0,0.0
+731,Chris,Vivien,John,Joeseph,Jose,Frank,Danny,Jessica,Marcus,Karen,Michael,Tom,0.0,0.0
+732,John,Danny,Max,Michael,Alex,Marcus,Ryan,Chris,Jessica,Joeseph,Martin,Tom,1.0,0.0
+733,Sherman,Tom,Jose,Martin,Jonathan,Jeffrey,Karen,Chris,Max,Khoman ,Alex,Frank,2.0,0.0
+734,Max,Sherman,Tom,Alex,Danny,Ryan,Chris,Khoman ,Jonathan,John,Marcus,Vivien,0.0,1.0
+735,Sherman,Michael,Chris,Joeseph,Alex,Jonathan,Jessica,Jose,Karen,Danny,Ryan,Jeffrey,0.0,3.0
+736,Sherman,Jessica,Frank,Tom,Max,Vivien,John,Khoman ,Danny,Chris,Jeffrey,Michael,0.0,0.0
+737,Frank,Marcus,Chris,Max,John,Tom,Alex,Martin,Sherman,Michael,Ryan,Danny,0.0,3.0
+738,Marcus,Chris,Jonathan,Jessica,Jose,Frank,Tom,Michael,Danny,Joeseph,Max,Khoman ,1.0,0.0
+739,Sherman,Jeffrey,Vivien,Martin,Ryan,Marcus,Frank,Jessica,Max,Chris,Michael,Jose,0.0,2.0
+740,Joeseph,Jonathan,Marcus,Tom,Jeffrey,Alex,John,Danny,Chris,Khoman ,Michael,Jose,0.0,2.0
+741,Chris,Ryan,Danny,Alex,Max,Jeffrey,Frank,John,Jose,Jonathan,Martin,Jessica,0.0,4.0
+742,Michael,Chris,Karen,Tom,Jessica,Ryan,Sherman,Alex,Jose,Max,Martin,Danny,0.0,1.0
+743,Max,Ryan,Jessica,Michael,Chris,Jonathan,Sherman,Karen,Vivien,Khoman ,Danny,John,0.0,1.0
+744,Karen,Martin,Joeseph,Michael,Tom,Chris,John,Alex,Khoman ,Max,Danny,Sherman,1.0,0.0
+745,Jeffrey,Ryan,Khoman ,Sherman,Karen,Martin,Alex,Vivien,Jose,Joeseph,Jessica,Frank,0.0,2.0
+746,Ryan,Alex,Frank,Marcus,Tom,Michael,Khoman ,Sherman,Martin,Jeffrey,Vivien,Jose,0.0,3.0
+747,John,Sherman,Alex,Khoman ,Frank,Karen,Jeffrey,Jonathan,Joeseph,Ryan,Marcus,Danny,0.0,2.0
+748,Marcus,Frank,Martin,Joeseph,Alex,Tom,Ryan,Chris,Jessica,Karen,Jonathan,Khoman ,0.0,2.0
+749,Marcus,Karen,Vivien,Sherman,Michael,Jonathan,Jeffrey,Jessica,Khoman ,Max,Martin,Frank,0.0,0.0
+750,John,Martin,Marcus,Ryan,Sherman,Jonathan,Max,Jose,Danny,Khoman ,Joeseph,Chris,0.0,2.0
+751,Max,Chris,Tom,Jose,Frank,Khoman ,Joeseph,Karen,Jessica,Alex,Jonathan,Vivien,0.0,2.0
+752,Khoman ,Danny,Michael,Jonathan,Jeffrey,Karen,John,Vivien,Sherman,Jessica,Frank,Jose,2.0,0.0
+753,Max,Karen,Sherman,Michael,Tom,John,Ryan,Martin,Jessica,Danny,Jose,Jeffrey,0.0,3.0
+754,Vivien,Jose,Michael,Marcus,Khoman ,Martin,Sherman,John,Ryan,Danny,Karen,Jessica,1.0,0.0
+755,John,Michael,Alex,Danny,Tom,Jessica,Jonathan,Sherman,Vivien,Marcus,Chris,Joeseph,0.0,1.0
+756,Jessica,Max,Frank,John,Chris,Jeffrey,Vivien,Khoman ,Tom,Jonathan,Martin,Marcus,0.0,0.0
+757,Jonathan,John,Khoman ,Max,Karen,Michael,Martin,Jose,Ryan,Alex,Danny,Sherman,1.0,0.0
+758,Jonathan,Joeseph,Danny,Michael,Martin,Vivien,Max,Alex,Sherman,Marcus,Karen,Jessica,5.0,0.0
+759,Marcus,Ryan,John,Tom,Michael,Karen,Martin,Frank,Khoman ,Jonathan,Jessica,Jose,0.0,5.0
+760,Jeffrey,Sherman,Jose,Danny,Marcus,Joeseph,Ryan,Tom,Frank,John,Alex,Martin,3.0,0.0
+761,Jeffrey,Frank,Jessica,Alex,Martin,Jonathan,Max,Vivien,Karen,Sherman,Marcus,John,3.0,0.0
+762,Sherman,Jeffrey,Frank,Alex,Jessica,Max,Joeseph,Vivien,Danny,John,Khoman ,Marcus,0.0,1.0
+763,Vivien,Karen,Jeffrey,Tom,Ryan,Danny,Jessica,Michael,Martin,John,Marcus,Jose,1.0,0.0
+764,Jonathan,John,Marcus,Khoman ,Jeffrey,Frank,Vivien,Jessica,Ryan,Alex,Chris,Sherman,3.0,0.0
+765,Jeffrey,Martin,Max,Ryan,Joeseph,Vivien,Marcus,Danny,Frank,Chris,Jose,Sherman,0.0,0.0
+766,Sherman,Karen,Jose,Tom,Jeffrey,Frank,Martin,Chris,Khoman ,John,Jonathan,Jessica,1.0,0.0
+767,Frank,Max,Sherman,Danny,Jessica,Jonathan,Jose,Tom,Marcus,Joeseph,Karen,Chris,4.0,0.0
+768,Sherman,Tom,John,Jeffrey,Ryan,Marcus,Vivien,Joeseph,Chris,Jose,Danny,Max,0.0,4.0
+769,Michael,Sherman,Jeffrey,Jessica,Frank,Karen,Ryan,Jonathan,John,Martin,Chris,Marcus,4.0,0.0
+770,Jose,Danny,Vivien,John,Joeseph,Ryan,Khoman ,Martin,Alex,Karen,Jeffrey,Michael,1.0,0.0
+771,Jeffrey,Ryan,Khoman ,Jonathan,Jose,Martin,Sherman,Michael,Joeseph,John,Vivien,Max,1.0,0.0
+772,Martin,Alex,Max,Marcus,Jonathan,Frank,Sherman,Michael,Jose,John,Tom,Karen,0.0,0.0
+773,Jose,Sherman,Jeffrey,Ryan,Marcus,Michael,Max,Alex,Chris,Danny,Jonathan,Joeseph,0.0,0.0
+774,Michael,John,Sherman,Tom,Chris,Alex,Martin,Danny,Jeffrey,Marcus,Karen,Frank,0.0,5.0
+775,Martin,Jonathan,Danny,Jessica,Alex,John,Max,Khoman ,Jeffrey,Ryan,Jose,Sherman,1.0,0.0
+776,Max,Vivien,Jessica,John,Karen,Ryan,Marcus,Jonathan,Khoman ,Martin,Tom,Joeseph,0.0,0.0
+777,Khoman ,Jonathan,Jeffrey,Danny,Jose,Tom,Jessica,Frank,Marcus,Joeseph,Max,John,2.0,0.0
+778,Marcus,Alex,Khoman ,Jessica,Max,Martin,Michael,Frank,Jose,Jeffrey,Karen,Joeseph,0.0,5.0
+779,Max,Michael,Ryan,Joeseph,Karen,Vivien,Jeffrey,Jonathan,John,Sherman,Jessica,Chris,2.0,0.0
+780,Alex,Tom,Jeffrey,Martin,Sherman,Jonathan,Khoman ,Danny,Chris,Vivien,Jessica,Joeseph,0.0,2.0
+781,Martin,Frank,Ryan,Danny,John,Karen,Vivien,Alex,Chris,Sherman,Tom,Jonathan,3.0,0.0
+782,Vivien,Martin,Jonathan,Jeffrey,Danny,Joeseph,Frank,Max,Tom,Alex,Chris,Jessica,5.0,0.0
+783,Alex,Frank,Khoman ,Jeffrey,Tom,Max,Jose,Jonathan,Sherman,Michael,Martin,John,0.0,2.0
+784,Sherman,Vivien,Jose,John,Martin,Tom,Jonathan,Frank,Jessica,Alex,Chris,Jeffrey,0.0,1.0
+785,Frank,Vivien,Alex,John,Marcus,Michael,Jose,Joeseph,Chris,Jonathan,Jessica,Jeffrey,0.0,2.0
+786,Jessica,Jose,Karen,Joeseph,Martin,Marcus,Chris,Tom,Khoman ,Ryan,Alex,Sherman,5.0,0.0
+787,Vivien,Martin,Marcus,Danny,John,Jeffrey,Karen,Sherman,Max,Frank,Joeseph,Ryan,0.0,0.0
+788,Sherman,Martin,Jessica,Joeseph,Ryan,Jonathan,Jeffrey,Vivien,Tom,Marcus,Khoman ,Frank,1.0,0.0
+789,Martin,Danny,Michael,Chris,Khoman ,Ryan,Alex,Vivien,Jose,Max,Sherman,Joeseph,0.0,0.0
+790,Chris,Vivien,Alex,Karen,Jessica,Tom,Joeseph,Frank,Michael,Jose,Khoman ,Jeffrey,0.0,5.0
+791,Michael,Alex,Karen,Khoman ,Tom,Chris,Jose,Joeseph,John,Ryan,Sherman,Marcus,0.0,1.0
+792,Karen,Max,Alex,Vivien,Frank,Danny,Jonathan,Chris,Jose,Martin,Sherman,Ryan,2.0,0.0
+793,Joeseph,Chris,John,Khoman ,Tom,Sherman,Jonathan,Karen,Martin,Jose,Michael,Alex,0.0,4.0
+794,Marcus,Martin,Joeseph,Chris,Danny,Jessica,Tom,John,Max,Alex,Jeffrey,Sherman,3.0,0.0
+795,Karen,Jonathan,Sherman,Danny,Max,Tom,Jose,Marcus,Khoman ,Chris,John,Joeseph,2.0,0.0
+796,Joeseph,Vivien,Jessica,Tom,Danny,Martin,Sherman,Alex,Max,Chris,Michael,Jeffrey,3.0,0.0
+797,Karen,Frank,Marcus,Danny,Khoman ,Chris,Jessica,Alex,John,Michael,Jeffrey,Max,1.0,0.0
+798,Chris,Marcus,Max,Khoman ,Alex,Joeseph,Martin,Karen,Jessica,Ryan,Jeffrey,Vivien,0.0,4.0
+799,Jose,Ryan,Jeffrey,John,Marcus,Jonathan,Alex,Khoman ,Michael,Sherman,Danny,Vivien,0.0,1.0
+800,Sherman,Khoman ,Martin,Max,Joeseph,Vivien,Jose,Danny,Jeffrey,Jessica,Chris,Alex,0.0,0.0
+801,Jose,Frank,Jonathan,Alex,Marcus,Khoman ,Max,Joeseph,Ryan,Jessica,Michael,Chris,1.0,0.0
+802,Jose,Danny,Alex,John,Marcus,Ryan,Jessica,Jonathan,Max,Khoman ,Tom,Frank,0.0,2.0
+803,Karen,Chris,Danny,Martin,Jeffrey,Alex,Jose,Joeseph,John,Ryan,Jonathan,Frank,0.0,2.0
+804,Martin,Chris,Sherman,Frank,Michael,Max,John,Karen,Khoman ,Jessica,Jose,Alex,0.0,0.0
+805,Jose,Frank,John,Tom,Martin,Sherman,Danny,Joeseph,Michael,Chris,Jessica,Jonathan,0.0,3.0
+806,Michael,Tom,Marcus,Danny,Max,Frank,Khoman ,Vivien,Ryan,Jeffrey,Jose,Chris,0.0,0.0
+807,Karen,Ryan,John,Max,Danny,Chris,Joeseph,Jeffrey,Vivien,Jose,Jonathan,Frank,0.0,5.0
+808,Chris,Ryan,Danny,Joeseph,Karen,Tom,Jose,Sherman,Jessica,Martin,Alex,Michael,0.0,1.0
+809,Khoman ,Jessica,Tom,Alex,Ryan,Danny,Michael,Karen,Max,Jose,Frank,Jeffrey,0.0,4.0
+810,Max,Michael,Jeffrey,Karen,Martin,Jonathan,Frank,Alex,Joeseph,Marcus,John,Tom,4.0,0.0
+811,Martin,Danny,Sherman,Ryan,Jeffrey,Michael,John,Jonathan,Frank,Jose,Vivien,Marcus,0.0,1.0
+812,Marcus,Khoman ,Martin,Karen,Frank,Max,Jeffrey,Jonathan,Joeseph,Danny,Vivien,Ryan,0.0,3.0
+813,Jeffrey,Danny,Sherman,Ryan,John,Michael,Jonathan,Max,Joeseph,Jose,Tom,Karen,0.0,0.0
+814,Frank,Alex,Chris,Karen,Jessica,Jonathan,Sherman,Ryan,Marcus,Jeffrey,Michael,Khoman ,1.0,0.0
+815,Danny,Vivien,Jose,Karen,Jeffrey,Max,Sherman,Jessica,Joeseph,Khoman ,Ryan,Alex,4.0,0.0
+816,Jeffrey,Sherman,Danny,Martin,Alex,Chris,Max,Ryan,Jessica,Frank,Tom,John,0.0,0.0
+817,Jessica,Khoman ,Alex,Jeffrey,Ryan,Sherman,Frank,John,Michael,Vivien,Marcus,Martin,0.0,2.0
+818,Joeseph,Max,Michael,Tom,Frank,Chris,Ryan,Karen,Jose,Sherman,John,Khoman ,0.0,0.0
+819,Danny,Chris,John,Frank,Vivien,Max,Joeseph,Martin,Jeffrey,Jose,Marcus,Jonathan,0.0,1.0
+820,Danny,Tom,Jeffrey,Alex,Marcus,Jonathan,Ryan,Chris,Jose,Joeseph,Martin,Frank,0.0,1.0
+821,Max,Tom,John,Alex,Michael,Frank,Jessica,Chris,Joeseph,Danny,Sherman,Martin,0.0,2.0
+822,Sherman,Max,Vivien,Michael,John,Jeffrey,Frank,Chris,Khoman ,Jessica,Karen,Marcus,0.0,0.0
+823,Vivien,Jessica,Jose,Jonathan,Tom,Joeseph,Ryan,Danny,Khoman ,Chris,Marcus,Martin,3.0,0.0
+824,Frank,Danny,Vivien,Jonathan,Jose,Alex,Tom,Jessica,Sherman,Marcus,Karen,Michael,4.0,0.0
+825,Karen,John,Martin,Jessica,Tom,Danny,Jose,Marcus,Vivien,Alex,Ryan,Joeseph,0.0,0.0
+826,Karen,Chris,Khoman ,Ryan,Sherman,Jessica,Danny,Frank,Jonathan,Alex,Marcus,Michael,0.0,3.0
+827,Martin,Khoman ,Tom,Vivien,John,Karen,Joeseph,Marcus,Chris,Jonathan,Danny,Alex,0.0,0.0
+828,Michael,Karen,Danny,Sherman,Khoman ,Chris,Jonathan,Tom,Alex,Martin,Max,Ryan,2.0,0.0
+829,John,Chris,Tom,Sherman,Jonathan,Ryan,Michael,Max,Khoman ,Vivien,Karen,Marcus,0.0,3.0
+830,Jose,Danny,Jonathan,Sherman,Martin,Ryan,Frank,Karen,Vivien,Joeseph,Jessica,Max,0.0,0.0
+831,Marcus,Max,Jose,Michael,Khoman ,Vivien,Jeffrey,Danny,Chris,Frank,Joeseph,Jessica,0.0,1.0
+832,Michael,Sherman,John,Tom,Khoman ,Alex,Jeffrey,Joeseph,Frank,Danny,Martin,Jose,0.0,6.0
+833,Danny,Michael,Joeseph,Karen,Khoman ,Chris,Vivien,Max,Jessica,Tom,Marcus,Jose,2.0,0.0
+834,Jeffrey,Michael,Jonathan,Alex,Frank,Ryan,Joeseph,Vivien,Khoman ,Tom,Marcus,Max,3.0,0.0
+835,Jose,Tom,Marcus,Joeseph,Vivien,Ryan,Khoman ,Danny,Martin,Michael,Max,Karen,0.0,2.0
+836,Michael,Sherman,Frank,Ryan,Marcus,Max,Alex,Danny,Karen,Tom,Chris,Khoman ,2.0,0.0
+837,Jessica,Khoman ,Jonathan,Sherman,Vivien,Jeffrey,Danny,Chris,Max,Michael,Frank,Martin,1.0,0.0
+838,Sherman,Max,Jonathan,Khoman ,Marcus,Tom,Jessica,Alex,Jose,John,Martin,Danny,0.0,2.0
+839,Danny,Jonathan,Jose,Marcus,Ryan,Karen,Jessica,Chris,Sherman,Vivien,Max,Khoman ,3.0,0.0
+840,Jonathan,Jessica,Ryan,Chris,Michael,Sherman,Joeseph,Karen,Jeffrey,Jose,Vivien,Martin,0.0,2.0
+841,John,Max,Martin,Frank,Khoman ,Tom,Karen,Michael,Jessica,Jonathan,Alex,Joeseph,0.0,3.0
+842,Jose,Khoman ,Tom,Chris,Marcus,Vivien,Alex,Michael,Max,John,Jessica,Sherman,0.0,0.0
+843,John,Jonathan,Danny,Joeseph,Tom,Jeffrey,Ryan,Karen,Sherman,Chris,Vivien,Khoman ,2.0,0.0
+844,Frank,Jose,Jeffrey,Jessica,Karen,Danny,Sherman,Joeseph,Chris,Ryan,Alex,Tom,7.0,0.0
+845,Jessica,Vivien,Jose,Tom,Sherman,Danny,Chris,Michael,Marcus,Joeseph,Karen,Martin,2.0,0.0
+846,Michael,Khoman ,Max,Frank,Jonathan,Jessica,Sherman,Jose,Martin,Jeffrey,Alex,Danny,2.0,0.0
+847,Max,Michael,Jonathan,Frank,Sherman,Khoman ,Karen,Danny,Jeffrey,Martin,Vivien,Alex,1.0,0.0
+848,Alex,Michael,Jessica,John,Frank,Jeffrey,Ryan,Max,Jose,Martin,Marcus,Tom,2.0,0.0
+849,Jose,Danny,Chris,Jonathan,Jeffrey,John,Frank,Max,Joeseph,Ryan,Michael,Alex,1.0,0.0
+850,Jose,Jeffrey,John,Danny,Sherman,Khoman ,Frank,Jonathan,Tom,Jessica,Joeseph,Alex,0.0,0.0
+851,Jeffrey,Martin,Sherman,Chris,Alex,Jonathan,John,Marcus,Frank,Karen,Ryan,Khoman ,0.0,1.0
+852,Karen,Ryan,Marcus,Khoman ,Sherman,Alex,Vivien,Tom,Michael,Max,Joeseph,Jeffrey,0.0,3.0
+853,Jose,Alex,Martin,Marcus,Jessica,Sherman,Ryan,Michael,Joeseph,Karen,Jeffrey,John,0.0,2.0
+854,Joeseph,Jonathan,Sherman,Chris,Ryan,Martin,Danny,Jessica,Jeffrey,John,Jose,Frank,0.0,3.0
+855,Vivien,Jose,Alex,Khoman ,Jessica,Tom,Jonathan,Marcus,Max,Jeffrey,Sherman,Joeseph,0.0,1.0
+856,Vivien,Frank,Jose,Karen,Tom,Sherman,Jessica,Khoman ,Jeffrey,Alex,Chris,Max,3.0,0.0
+857,Alex,Martin,Frank,Sherman,Vivien,Karen,John,Marcus,Ryan,Joeseph,Jonathan,Khoman ,1.0,0.0
+858,Jonathan,Sherman,Michael,Khoman ,Jeffrey,Ryan,Alex,Joeseph,Frank,Danny,Chris,Vivien,0.0,0.0
+859,Danny,Michael,Karen,Jeffrey,Jonathan,Jose,John,Ryan,Martin,Khoman ,Tom,Max,6.0,0.0
+860,Jonathan,Sherman,Vivien,Jose,Khoman ,Jeffrey,John,Karen,Michael,Max,Marcus,Chris,4.0,0.0
+861,Michael,Frank,Marcus,Vivien,Danny,Alex,Chris,Khoman ,Jonathan,Karen,Max,John,2.0,0.0
+862,Tom,Max,Karen,Danny,Sherman,Jonathan,Marcus,Frank,Ryan,Michael,Jose,Chris,0.0,0.0
+863,Michael,Karen,Danny,Vivien,Tom,Max,Marcus,John,Sherman,Jeffrey,Jessica,Frank,1.0,0.0
+864,Jonathan,Max,Martin,Michael,Alex,John,Ryan,Jose,Khoman ,Joeseph,Karen,Sherman,0.0,1.0
+865,Ryan,Jose,Michael,Tom,Frank,Jonathan,John,Max,Chris,Martin,Jessica,Alex,5.0,0.0
+866,Max,Sherman,Jonathan,Joeseph,Jessica,Michael,Alex,Vivien,Khoman ,Ryan,Tom,Frank,2.0,0.0
+867,Vivien,Jose,Tom,Karen,Martin,Danny,Jonathan,Joeseph,Marcus,John,Frank,Sherman,1.0,0.0
+868,Jose,Jeffrey,Ryan,Chris,Marcus,Alex,Khoman ,Karen,Jessica,Max,Joeseph,Jonathan,0.0,4.0
+869,Danny,Jonathan,Jose,Martin,John,Michael,Marcus,Max,Frank,Chris,Vivien,Karen,3.0,0.0
+870,Michael,Joeseph,Chris,Vivien,Alex,John,Frank,Ryan,Karen,Tom,Danny,Martin,0.0,2.0
+871,Tom,John,Joeseph,Karen,Frank,Martin,Danny,Ryan,Chris,Jose,Vivien,Alex,0.0,0.0
+872,Tom,Jessica,Martin,Frank,Alex,Jonathan,Sherman,Jose,Danny,Ryan,Jeffrey,Marcus,0.0,0.0
+873,Jessica,Sherman,Danny,Jose,Alex,Martin,Frank,Michael,Jeffrey,Karen,Joeseph,Marcus,0.0,1.0
+874,Max,Khoman ,Vivien,Michael,Jeffrey,John,Jose,Ryan,Sherman,Frank,Joeseph,Alex,0.0,0.0
+875,Khoman ,Vivien,Marcus,Ryan,Karen,John,Jose,Max,Martin,Joeseph,Michael,Danny,0.0,3.0
+876,Michael,Karen,Joeseph,Jessica,Ryan,Marcus,Martin,Tom,Jonathan,Frank,Max,Danny,0.0,1.0
+877,Alex,Joeseph,Martin,Vivien,Jeffrey,Michael,Jonathan,Frank,Jessica,Karen,Jose,Danny,0.0,3.0
+878,Frank,Vivien,Alex,Danny,Max,Jose,Jessica,Khoman ,Karen,Martin,Marcus,Ryan,2.0,0.0
+879,Chris,Khoman ,Ryan,Martin,Vivien,Sherman,Tom,Alex,Joeseph,Danny,Max,Jessica,0.0,0.0
+880,Ryan,Jessica,Danny,Joeseph,Khoman ,John,Marcus,Chris,Jose,Vivien,Michael,Alex,1.0,0.0
+881,Khoman ,Jose,Joeseph,John,Jonathan,Karen,Martin,Vivien,Alex,Ryan,Jeffrey,Marcus,3.0,0.0
+882,Max,Alex,Jonathan,Jose,Joeseph,Martin,Chris,Jeffrey,Sherman,Tom,Frank,Karen,1.0,0.0
+883,Sherman,John,Chris,Frank,Jose,Joeseph,Jonathan,Tom,Marcus,Danny,Alex,Martin,1.0,0.0
+884,Michael,Max,Vivien,Sherman,Karen,Frank,Jonathan,Ryan,Khoman ,Martin,Marcus,Jose,1.0,0.0
+885,Chris,Marcus,Karen,Danny,Khoman ,Martin,Jose,Ryan,Sherman,Jonathan,Vivien,Jessica,0.0,2.0
+886,Danny,Chris,Khoman ,John,Frank,Michael,Vivien,Tom,Jessica,Marcus,Martin,Joeseph,1.0,0.0
+887,Joeseph,Khoman ,Tom,Alex,Michael,Ryan,Jonathan,Jeffrey,Martin,Frank,Max,Sherman,0.0,3.0
+888,Vivien,Joeseph,Jonathan,Khoman ,Michael,John,Jose,Danny,Frank,Sherman,Karen,Marcus,0.0,0.0
+889,Alex,Chris,Vivien,Michael,Danny,Martin,Joeseph,Khoman ,Max,Ryan,Frank,Sherman,0.0,0.0
+890,Khoman ,Chris,Joeseph,John,Vivien,Karen,Marcus,Michael,Alex,Jessica,Frank,Max,0.0,0.0
+891,Ryan,Joeseph,Vivien,Martin,Jeffrey,Marcus,Karen,Alex,Max,Khoman ,Michael,Sherman,1.0,0.0
+892,Jose,Chris,Ryan,Max,Karen,Martin,Tom,Frank,Sherman,Joeseph,Jeffrey,John,0.0,0.0
+893,Jonathan,Danny,Jose,Michael,Tom,Vivien,Khoman ,Max,Chris,Jeffrey,Frank,John,4.0,0.0
+894,John,Joeseph,Marcus,Vivien,Danny,Khoman ,Jose,Chris,Frank,Alex,Martin,Tom,2.0,0.0
+895,Max,Jessica,Jonathan,John,Chris,Danny,Karen,Joeseph,Marcus,Sherman,Jeffrey,Jose,0.0,0.0
+896,Jonathan,Martin,Max,Karen,Jeffrey,Danny,Jose,Khoman ,Vivien,Michael,Tom,Jessica,1.0,0.0
+897,Khoman ,Sherman,Chris,Danny,Jessica,Michael,Alex,Frank,Jonathan,Martin,Karen,Jose,0.0,1.0
+898,Jose,Sherman,Jeffrey,Karen,Frank,Jonathan,Tom,John,Khoman ,Chris,Joeseph,Alex,6.0,0.0
+899,Joeseph,Alex,Jonathan,Martin,Jose,Max,Karen,Vivien,Chris,Danny,Sherman,Ryan,0.0,0.0
+900,Khoman ,Tom,Marcus,Vivien,Michael,Jeffrey,Jessica,Jonathan,Jose,Alex,Max,Chris,0.0,0.0
+901,Joeseph,Jonathan,Danny,Jose,Marcus,Alex,John,Chris,Frank,Martin,Jessica,Tom,3.0,0.0
+902,Jessica,Frank,Danny,Jonathan,Sherman,Vivien,Michael,Ryan,Max,Martin,Khoman ,John,4.0,0.0
+903,Jessica,Danny,Khoman ,Chris,Tom,Max,John,Jose,Vivien,Ryan,Michael,Marcus,0.0,1.0
+904,Jonathan,Jessica,Max,Marcus,Jose,John,Tom,Karen,Frank,Vivien,Khoman ,Sherman,0.0,0.0
+905,Joeseph,Martin,Chris,Jessica,Jose,Vivien,Marcus,Sherman,Max,Frank,Alex,Tom,3.0,0.0
+906,John,Sherman,Chris,Alex,Marcus,Vivien,Joeseph,Frank,Michael,Max,Karen,Jeffrey,0.0,5.0
+907,John,Sherman,Vivien,Max,Tom,Khoman ,Michael,Joeseph,Chris,Martin,Jose,Frank,0.0,3.0
+908,John,Jose,Martin,Karen,Sherman,Frank,Tom,Jonathan,Alex,Max,Danny,Khoman ,1.0,0.0
+909,John,Karen,Ryan,Alex,Michael,Martin,Danny,Vivien,Jessica,Khoman ,Max,Jonathan,0.0,4.0
+910,Max,Tom,Chris,Sherman,Danny,Jessica,Marcus,John,Vivien,Jeffrey,Joeseph,Frank,0.0,2.0
+911,Jose,Khoman ,Frank,Karen,Jessica,Jeffrey,Alex,Ryan,Max,John,Martin,Tom,6.0,0.0
+912,Michael,Alex,Joeseph,Khoman ,Max,Vivien,Karen,Marcus,John,Jose,Sherman,Danny,0.0,0.0
+913,Karen,Frank,Martin,Vivien,Michael,Jonathan,Max,Alex,Sherman,Marcus,Jose,Chris,6.0,0.0
+914,Jonathan,Alex,Chris,Danny,Ryan,Jose,Marcus,Sherman,Frank,Khoman ,Vivien,Tom,1.0,0.0
+915,Max,John,Jonathan,Frank,Jessica,Chris,Sherman,Michael,Alex,Ryan,Martin,Vivien,1.0,0.0
+916,Vivien,Jeffrey,Frank,Jonathan,Tom,Jessica,Sherman,Michael,Martin,Khoman ,Marcus,Joeseph,2.0,0.0
+917,Jose,Tom,Frank,Karen,Khoman ,Max,John,Chris,Danny,Martin,Jeffrey,Michael,0.0,0.0
+918,Chris,Marcus,Martin,Joeseph,Ryan,Tom,Max,Jonathan,Danny,Alex,Jeffrey,Vivien,0.0,4.0
+919,Karen,Tom,Martin,Chris,Vivien,Jeffrey,Jonathan,Marcus,Max,Alex,Sherman,Joeseph,0.0,0.0
+920,Frank,Tom,John,Marcus,Jeffrey,Jonathan,Karen,Alex,Danny,Khoman ,Jose,Vivien,0.0,2.0
+921,Max,Joeseph,Karen,Jessica,John,Danny,Vivien,Sherman,Tom,Khoman ,Jose,Chris,2.0,0.0
+922,Ryan,Jose,Sherman,Chris,Joeseph,Vivien,Michael,Jeffrey,Khoman ,Frank,Danny,Tom,0.0,2.0
+923,Max,Vivien,Tom,Marcus,Jessica,Joeseph,John,Jonathan,Karen,Alex,Chris,Danny,0.0,0.0
+924,Max,Jose,Chris,Marcus,Vivien,Danny,Frank,John,Tom,Alex,Sherman,Jeffrey,2.0,0.0
+925,Jeffrey,Marcus,Frank,Joeseph,Max,Alex,Jonathan,Ryan,Sherman,Jose,Martin,Michael,0.0,2.0
+926,Alex,John,Marcus,Frank,Joeseph,Michael,Chris,Martin,Jessica,Karen,Khoman ,Max,0.0,0.0
+927,Marcus,Michael,Tom,Max,Chris,Jeffrey,Ryan,Martin,Jonathan,Joeseph,Jose,Jessica,0.0,4.0
+928,Jessica,Michael,John,Jose,Joeseph,Frank,Tom,Jeffrey,Khoman ,Chris,Martin,Max,4.0,0.0
+929,John,Jeffrey,Khoman ,Vivien,Sherman,Frank,Michael,Chris,Jonathan,Jessica,Joeseph,Ryan,0.0,0.0
+930,Max,Joeseph,Vivien,John,Jose,Michael,Karen,Martin,Alex,Jeffrey,Ryan,Chris,3.0,0.0
+931,Jonathan,Tom,Jeffrey,Khoman ,Martin,Chris,Ryan,Sherman,Marcus,Michael,Danny,John,0.0,0.0
+932,Alex,Danny,Michael,Jonathan,Jessica,Tom,Sherman,Martin,Chris,Karen,Max,Ryan,3.0,0.0
+933,Khoman ,Frank,Marcus,Vivien,Karen,John,Jeffrey,Sherman,Ryan,Danny,Chris,Martin,1.0,0.0
+934,Tom,Jonathan,Chris,Max,Martin,Joeseph,Sherman,Danny,Khoman ,Alex,Frank,Ryan,0.0,1.0
+935,Max,Karen,Danny,Ryan,Alex,Marcus,Khoman ,Martin,Sherman,Tom,Joeseph,John,1.0,0.0
+936,Jeffrey,Jonathan,Frank,John,Khoman ,Marcus,Michael,Vivien,Martin,Karen,Jessica,Chris,0.0,0.0
+937,Tom,Danny,Chris,Sherman,Jessica,Max,Jose,John,Ryan,Frank,Alex,Vivien,0.0,2.0
+938,Tom,Khoman ,Danny,Jose,Michael,Martin,Jonathan,Marcus,Max,Jeffrey,Ryan,Joeseph,1.0,0.0
+939,Michael,Danny,Max,Jeffrey,Martin,Khoman ,Joeseph,Ryan,Tom,Sherman,Jonathan,Alex,3.0,0.0
+940,Vivien,Jessica,Max,Joeseph,Sherman,Michael,Karen,Tom,Marcus,Jeffrey,Alex,Khoman ,3.0,0.0
+941,Ryan,Martin,Danny,Chris,Marcus,Tom,Frank,Jeffrey,Vivien,John,Jose,Jessica,0.0,4.0
+942,Danny,Tom,Joeseph,Marcus,Karen,Sherman,Chris,John,Martin,Vivien,Frank,Khoman ,0.0,0.0
+943,Jonathan,Martin,Chris,Tom,Alex,Sherman,Frank,Khoman ,Jeffrey,Karen,Jessica,John,0.0,4.0
+944,Khoman ,Alex,Karen,Jeffrey,Marcus,Frank,Jonathan,Jessica,Martin,Joeseph,Tom,Sherman,0.0,0.0
+945,Joeseph,Max,Danny,Martin,Karen,Marcus,Frank,Vivien,Michael,Jonathan,Ryan,Tom,0.0,1.0
+946,Jessica,Martin,Alex,Vivien,Marcus,Frank,Michael,Khoman ,Joeseph,Danny,John,Jeffrey,0.0,1.0
+947,Jose,Danny,Alex,Michael,John,Chris,Marcus,Vivien,Jonathan,Karen,Jessica,Ryan,0.0,2.0
+948,Jessica,Chris,Marcus,Jeffrey,Tom,Michael,Sherman,Vivien,Martin,Khoman ,Joeseph,Frank,0.0,3.0
+949,Frank,John,Alex,Joeseph,Sherman,Chris,Karen,Ryan,Max,Danny,Marcus,Michael,0.0,2.0
+950,John,Joeseph,Michael,Marcus,Jeffrey,Chris,Danny,Ryan,Max,Martin,Jose,Sherman,0.0,2.0
+951,Marcus,Max,Frank,Michael,Danny,John,Khoman ,Jonathan,Tom,Sherman,Jose,Jessica,0.0,0.0
+952,Jeffrey,Khoman ,Danny,Karen,John,Ryan,Tom,Joeseph,Frank,Vivien,Sherman,Jonathan,0.0,1.0
+953,Joeseph,Vivien,Marcus,Danny,Alex,Jessica,Martin,Max,Jeffrey,Sherman,Chris,John,3.0,0.0
+954,Jeffrey,Marcus,Sherman,Chris,Tom,Jessica,Joeseph,Jose,Martin,Ryan,Max,Karen,0.0,3.0
+955,Frank,Karen,Alex,Jonathan,John,Danny,Sherman,Michael,Chris,Joeseph,Khoman ,Jessica,2.0,0.0
+956,Michael,Martin,Jessica,Danny,Alex,Max,Tom,Ryan,Jose,Marcus,Jeffrey,Jonathan,1.0,0.0
+957,Ryan,Tom,Jessica,Marcus,Frank,Vivien,Jonathan,Danny,Max,Khoman ,Martin,Karen,0.0,2.0
+958,Danny,Max,Karen,Tom,Jonathan,Martin,Jose,Alex,Michael,Khoman ,Frank,Sherman,0.0,0.0
+959,Jessica,Marcus,Jeffrey,Martin,Frank,Michael,Max,Vivien,Karen,Sherman,Alex,Ryan,3.0,0.0
+960,Jessica,Ryan,Martin,Max,Jonathan,Vivien,Frank,Danny,Chris,Sherman,Michael,John,1.0,0.0
+961,Ryan,Vivien,Frank,Max,Chris,Jonathan,Jeffrey,Tom,Jose,Alex,Michael,Joeseph,1.0,0.0
+962,Marcus,Max,Michael,Frank,Jonathan,Jessica,Alex,Martin,Khoman ,Ryan,Joeseph,John,4.0,0.0
+963,Sherman,Michael,Alex,Jose,Jessica,Vivien,Max,Marcus,Chris,Danny,Karen,Tom,3.0,0.0
+964,Ryan,Sherman,Vivien,Danny,Karen,Khoman ,Michael,Chris,John,Jose,Frank,Joeseph,0.0,0.0
+965,Frank,Karen,Max,Martin,Ryan,Jessica,Khoman ,Jose,Tom,Marcus,Michael,John,2.0,0.0
+966,Danny,Sherman,John,Vivien,Khoman ,Max,Frank,Chris,Jose,Marcus,Jonathan,Jeffrey,0.0,1.0
+967,Frank,Khoman ,Marcus,Jessica,Chris,Sherman,John,Jeffrey,Alex,Joeseph,Karen,Martin,0.0,0.0
+968,Jessica,Max,Khoman ,John,Tom,Marcus,Danny,Alex,Jose,Michael,Martin,Jeffrey,0.0,4.0
+969,Alex,Vivien,Jose,Karen,Tom,Marcus,Joeseph,Max,Frank,Jessica,Sherman,Michael,0.0,3.0
+970,Michael,Marcus,Joeseph,John,Sherman,Jose,Vivien,Jonathan,Jessica,Jeffrey,Ryan,Frank,0.0,3.0
+971,Max,Tom,Martin,Frank,Vivien,Marcus,Jeffrey,Jonathan,Khoman ,John,Jose,Michael,0.0,2.0
+972,Alex,Jonathan,Vivien,Jessica,Jeffrey,Michael,Martin,Tom,John,Khoman ,Frank,Karen,2.0,0.0
+973,Sherman,Jose,Vivien,Frank,Max,John,Jonathan,Marcus,Michael,Khoman ,Danny,Jessica,0.0,1.0
+974,Danny,Frank,Ryan,Alex,Tom,Jose,Max,Jonathan,Jeffrey,Joeseph,Vivien,Khoman ,0.0,2.0
+975,Max,Jonathan,Khoman ,Sherman,Jessica,Vivien,Tom,Alex,Jeffrey,Jose,Chris,Joeseph,3.0,0.0
+976,John,Danny,Michael,Sherman,Alex,Ryan,Chris,Vivien,Marcus,Khoman ,Tom,Jeffrey,1.0,0.0
+977,Michael,Frank,John,Tom,Alex,Vivien,Jonathan,Martin,Sherman,Karen,Jeffrey,Marcus,0.0,1.0
+978,Danny,Frank,Alex,Karen,Max,Vivien,Sherman,Jose,Khoman ,Ryan,Chris,Jeffrey,2.0,0.0
+979,Jonathan,Danny,Max,Chris,Karen,Sherman,Jose,Jessica,Frank,Alex,John,Joeseph,0.0,0.0
+980,Danny,Karen,Jeffrey,John,Martin,Khoman ,Frank,Tom,Chris,Max,Jose,Jonathan,1.0,0.0
+981,Jose,Chris,Michael,John,Danny,Jonathan,Sherman,Martin,Jessica,Karen,Khoman ,Ryan,2.0,0.0
+982,Jonathan,Chris,John,Marcus,Martin,Jose,Ryan,Vivien,Joeseph,Tom,Frank,Michael,0.0,2.0
+983,Michael,Chris,Jessica,Joeseph,Sherman,Alex,Ryan,Frank,John,Marcus,Karen,Vivien,0.0,1.0
+984,Chris,Jose,Danny,Sherman,Alex,Martin,Tom,Frank,Max,John,Michael,Jonathan,0.0,1.0
+985,Max,Sherman,Jessica,Chris,Tom,Frank,Marcus,Karen,Jeffrey,Khoman ,Alex,Michael,0.0,1.0
+986,Alex,Max,Marcus,Jonathan,Jeffrey,Karen,Jessica,Danny,John,Tom,Chris,Sherman,1.0,0.0
+987,Ryan,Jeffrey,Marcus,Jonathan,Sherman,Frank,Alex,Jose,Vivien,Chris,Michael,Max,1.0,0.0
+988,Frank,Max,Alex,Jessica,Marcus,Sherman,Jose,Khoman ,Karen,Martin,Danny,Chris,0.0,2.0
+989,Ryan,John,Jonathan,Max,Marcus,Joeseph,Danny,Jose,Jeffrey,Tom,Sherman,Chris,0.0,0.0
+990,Khoman ,Alex,Max,Marcus,Martin,John,Joeseph,Vivien,Tom,Sherman,Karen,Chris,0.0,2.0
+991,Jeffrey,Chris,Jose,Jonathan,Karen,Joeseph,Jessica,Max,Frank,Marcus,Khoman ,Alex,2.0,0.0
+992,John,Frank,Jessica,Marcus,Ryan,Karen,Jonathan,Tom,Max,Joeseph,Sherman,Jeffrey,0.0,0.0
+993,Max,Jeffrey,Danny,Jessica,Jose,Jonathan,Michael,Frank,Chris,Marcus,Joeseph,Martin,3.0,0.0
+994,Jeffrey,John,Jose,Max,Michael,Danny,Jessica,Tom,Martin,Khoman ,Marcus,Sherman,3.0,0.0
+995,Ryan,Sherman,Vivien,Tom,Martin,Michael,Max,Jose,Chris,Danny,John,Jeffrey,0.0,0.0
+996,Jose,Jeffrey,Alex,Jonathan,Karen,Sherman,Frank,Jessica,Khoman ,Danny,Ryan,Max,0.0,1.0
+997,Vivien,Max,Sherman,Jonathan,John,Alex,Khoman ,Danny,Jose,Jeffrey,Ryan,Chris,0.0,1.0
+998,Chris,Michael,Danny,Alex,John,Tom,Martin,Khoman ,Karen,Jonathan,Max,Sherman,0.0,3.0
+999,Jeffrey,Jonathan,Michael,Alex,Jose,Joeseph,Frank,Vivien,Danny,Tom,Max,Marcus,1.0,0.0
+1000,Jeffrey,Frank,John,Jessica,Martin,Sherman,Joeseph,Chris,Karen,Danny,Ryan,Max,1.0,0.0

@@ -23,7 +23,7 @@ def RawDataProcessor(csvFile_toRead, csvFile_toWrite, size):
                      'player_A4', 'player_A5', 'player_A6', 'score_A',
                      'player_B1', 'player_B2', 'player_B3', 
                      'player_B4', 'player_B5', 'player_B6', 'score_B']]
-    rawData = pandas.read_csv(filepath_or_buffer=csvFile_toRead, index_col=0,header=None)
+    rawData = pandas.read_csv(filepath_or_buffer=csvFile_toRead, index_col=None,header=None)
     rawMatrix = pandas.DataFrame.as_matrix(rawData)    
 
     a = [None] * 14             

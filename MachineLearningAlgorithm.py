@@ -6,7 +6,7 @@ Created on Mon Sep 12 13:32:58 2016
 """
 
 
-def IterativeTrainingSystem(games):
+def IterativeTrainingSystem():
     """ This is an iterative process: 
             step 1 - takes in games instances
             step 2 - run the machine learning algorithem
