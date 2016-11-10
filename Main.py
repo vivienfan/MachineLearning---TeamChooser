@@ -5,28 +5,35 @@ Created on Mon Sep 12 13:32:58 2016
 @author: Vivien Y. Fan
 """
 import Preprocessor
-import MachineLearningAlgorithm
-import Predictor
+#import MachineLearningAlgorithm
+import Application
+import PerformanceAnalysis
 
 
 def main():
-    csvFile_toRead = r'C:\Users\shang\Downloads\Sacramentorealestatetransactions.csv'
-    csvFile_toWrite = r'C:\Users\shang\Downloads\ToWrite.csv'
+    csvFile_actualRating = r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\Milestone3_DataAnalysis\rating_list.csv'
+    csvFile_rawData = r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\game_stances.csv'
+    csvFile_processedData = r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\ProcessedData.csv'
+    csvFile_playerRating =  r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\PlayerRating.csv'
+    csvFile_analysis = r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\Milestone3_DataAnalysis\PerformanceAnalysis.csv'
     
-    # step 1: preprocessing and feature extracting
-    games = Preprocessor.RawDataProcessor(csvFile_toRead)
-    print(games.columns)
-    print(games.head())
 
-    # step 2: Training (offline) - machine learning system (iterative process)
-    model = MachineLearningAlgorithm.IterativeTrainingSystem(games)
-    print(model)
-  
-    # step 3: Testing (online)
-    newGame = ["player1", "player2","player3","player4","player5",
-               "player6","player7","player8","player9","player10",
-               "3:2"] # temperary
-    Predictor.PredictingFunction(model, games, newGame, csvFile_toWrite)
+#    num_players = 150
+    
+#    for i in range (1, 201):
+#        print(i)
+        # step 1: preprocessing and feature extracting
+    Preprocessor.RawDataProcessor(csvFile_rawData, csvFile_processedData, 1000)    
+        # step 2: Training (offline) - machine learning system (iterative process)
+    #    MachineLearningAlgorithm.IterativeTrainingSystem()
+      
+        # step 3: Testing (online)
+    Application.RatingCalculator(csvFile_processedData, csvFile_playerRating)
+        
+        # extra step: Performance analysis
+#        PerformanceAnalysis.Analysis(csvFile_actualRating, csvFile_playerRating, csvFile_analysis, i*5, num_players)    
+        
+#    PerformanceAnalysis.Plot(csvFile_analysis)
     return
     
   
