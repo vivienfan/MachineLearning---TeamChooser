@@ -49,7 +49,8 @@ def isNaN(value):
     
 
 def ExtractData(csvFile_toRead, size):
-    rawData = pandas.read_csv(csvFile_toRead, header=None)
+    rawData = pandas.read_csv(csvFile_toRead)
+    print("read csv succeded")    
     rawMatrix = pandas.DataFrame.as_matrix(rawData) 
     All_GameInstances = []
     extract_more = True
@@ -81,6 +82,6 @@ def ExtractData(csvFile_toRead, size):
             row += 1 # increament row
             
         if game_count == size:
-            extract_more = False;
-        
+            extract_more = False
+    
     return All_GameInstances

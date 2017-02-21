@@ -10,11 +10,11 @@ import GameInstance
 import Application
 #import PerformanceAnalysis
 
-size = 1000
 
-def main():
+def main(size):
 #    csvFile_actualRating = r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\Milestone3_DataAnalysis\rating_list.csv'
-    csvFile_rawData = r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\game_instances.csv'
+#    csvFile_rawData = r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\game_instances_.csv'
+    csvFile_rawData = r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\database.csv'
 #    csvFile_processedData = r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\ProcessedData.csv'
     csvFile_playerRating =  r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\PlayerRating.csv'
 #    csvFile_analysis = r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\Milestone3_DataAnalysis\PerformanceAnalysis.csv'
@@ -40,4 +40,33 @@ def main():
     
   
 if __name__ == "__main__":
-    main()
+    main(5)
+    main(10)
+    main(20)
+    main(30)
+    main(40)
+    main(50)
+    main(60)
+    main(70)
+    main(80)
+    main(90)
+    main(100)
+    main(110)
+    main(120)
+    main(130)
+    main(140)
+    main(150)
+    main(160)
+    main(170)
+    main(180)
+    main(190)
+    main(200)
+    main(250)
+    main(300)
+    main(400)
+    main(500)
+    main(600)
+    main(700)
+    main(800)
+    main(900)
+    main(1000)

@@ -111,7 +111,7 @@ import pandas
 
 threshold = 100
 def InferRatings_R(All_GameInstances, csv_rating, size):
-    PlayerRating_Init = ReadRatings(csv_rating)    
+    PlayerRating_Init = {} #ReadRatings(csv_rating)    
     PlayerRating = PlayerRating_Init.copy()
     PlayerRating_prev = {}    
     min_error = [10000000000, {}]
@@ -127,31 +127,31 @@ def InferRatings_R(All_GameInstances, csv_rating, size):
             for j in range(0, len(GameInstance.TeamA)):
                 PID = GameInstance.TeamA[j]
                 if PID not in PlayerRating:
-                    PlayerRating[PID] = 9
+                    PlayerRating[PID] = 9.0
                 if PID not in Rating_Table:
-                    Rating_Table[PID] = [0, 0]
-                teamA.append(int(PlayerRating[PID]))
+                    Rating_Table[PID] = [0.0, 0]
+                teamA.append(round(float(PlayerRating[PID]), 1))
                 
             for k in range(0, len(GameInstance.TeamB)):
                 PID = GameInstance.TeamB[k]
                 if PID not in PlayerRating:
-                    PlayerRating[PID] = 9
+                    PlayerRating[PID] = 9.0
                 if PID not in Rating_Table:
-                    Rating_Table[PID] = [0, 0]
-                teamB.append(int(PlayerRating[PID]))
+                    Rating_Table[PID] = [0.0, 0]
+                teamB.append(round(float(PlayerRating[PID]), 1))
             adj = CalculateAdjustment(teamA, teamB, (GameInstance.ScoreA - GameInstance.ScoreB))     
             
             for j in range(0, len(GameInstance.TeamA)):
                 PID = GameInstance.TeamA[j]
-                Rating_Table[PID][0] += int(PlayerRating[PID]) + adj
+                Rating_Table[PID][0] += round((float(PlayerRating[PID]) + adj), 1)
                 Rating_Table[PID][1] += 1
             for k in range(0, len(GameInstance.TeamB)):
                 PID = GameInstance.TeamB[k]
-                Rating_Table[PID][0] += int(PlayerRating[PID]) - adj
+                Rating_Table[PID][0] += round((float(PlayerRating[PID]) - adj), 1)
                 Rating_Table[PID][1] += 1
 
         for PID in Rating_Table:
-            PlayerRating[PID] = int(Rating_Table[PID][0] / Rating_Table[PID][1])         
+            PlayerRating[PID] = format((Rating_Table[PID][0] / Rating_Table[PID][1]), '.1f')         
         
         error_per_game = ErrorPerGame(All_GameInstances, PlayerRating) 
         if error_per_game <= min_error[0]:
@@ -178,8 +178,12 @@ def InferRatings_R(All_GameInstances, csv_rating, size):
         iteration += 1     
         PlayerRating_prev = PlayerRating.copy()
 
+    CreateRecord2(size, min_error[0], iteration)
     PR = pandas.Series(min_error[1])
     PR.to_csv(csv_rating)
+    print(iteration)
+    print(min_error[0])
+    print(min_error[1])
     return 
 
 
@@ -193,7 +197,7 @@ def ReadRatings(csv_rating):
    
 def CalculateAdjustment(teamA, teamB, SD_act):
     SD_calc = ScorePredictor(teamA, teamB)
-    adjustment = (SD_act - SD_calc) / 19
+    adjustment = (SD_act - SD_calc) / 1.3
     return adjustment
     
     
@@ -224,17 +228,17 @@ def ErrorPerGame(All_GameInstances, PlayerRating):
         teamB = list()
         for j in range (0, len(GameInstance.TeamA)):
             PID = GameInstance.TeamA[j]
-            teamA.append(PlayerRating[PID]) 
+            teamA.append(round(float(PlayerRating[PID]), 1)) 
         for k in range(0, len(GameInstance.TeamB)):
             PID = GameInstance.TeamB[k]
-            teamB.append(PlayerRating[PID])          
+            teamB.append(round(float(PlayerRating[PID]), 1))          
         SD_act = abs(GameInstance.ScoreA - GameInstance.ScoreB)
         SD_calc = abs(ScorePredictor(teamA, teamB))
         error = abs(SD_act - SD_calc)            
         Err_total += error    
-              
+
     Err_per_game = Err_total / (i+1)
-#    CreateRecord(Err_per_game, PlayerRating)      
+    CreateRecord(Err_per_game, PlayerRating)      
     return Err_per_game
   
   
@@ -247,6 +251,15 @@ def CreateRecord(error, dic_player_ratings):
         i += 1
 
     new_row = pandas.DataFrame(new_list)   
-    new_row.to_csv(r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\Records.csv', mode='a', index=False, header=False)
+    new_row.to_csv(r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\G_1_3_Records_Error_Rating_20170126.csv', mode='a', index=False, header=False)
+    return
+    
+def CreateRecord2(size, error, iteration):
+    new_list = [[None]*3]
+    new_list[0][0] = size
+    new_list[0][1] = error
+    new_list[0][2] = iteration
+    new_row = pandas.DataFrame(new_list)   
+    new_row.to_csv(r'C:\Users\shang\Documents\GitHub\MachineLearning---TeamChooser\G_1_3_Records_Error_Iteration_20170126.csv', mode='a', index=False, header=False)
     return
     
